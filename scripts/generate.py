@@ -47,16 +47,20 @@ for item in items:
 
     print(f"  [gen]  {item['id']}: {item.get('description', '')[:60]}...")
     try:
-        resp = client.images.generate(
-            model="dall-e-3",
-            prompt=item["prompt"],
-            size=item.get("size", "1024x1024"),
-            quality=item.get("quality", "hd"),
-            n=1,
-        )
-        url = resp.data[0].url
-        revised = resp.data[0].revised_prompt or ""
-        img_data = requests.get(url, timeout=60).content
+        model = item.get("model", "gpt-image-1")
+        kwargs = {"model": model, "prompt": item["prompt"], "size": item.get("size", "1024x1024"), "n": 1}
+        if model == "dall-e-3":
+            kwargs["quality"] = item.get("quality", "hd")
+        else:
+            kwargs["quality"] = item.get("quality", "high")
+        resp = client.images.generate(**kwargs)
+        d = resp.data[0]
+        revised = getattr(d, "revised_prompt", None) or ""
+        if getattr(d, "b64_json", None):
+            import base64
+            img_data = base64.b64decode(d.b64_json)
+        else:
+            img_data = requests.get(d.url, timeout=60).content
 
         with open(out_file, "wb") as fp:
             fp.write(img_data)
