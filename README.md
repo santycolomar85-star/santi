@@ -33,6 +33,21 @@ ECUANUTRITION/MARKETING/ECUAMAN/
 │   ├── 04_HISTORIA_DE_VIDA_ECUAMAN.md     ⭐ Saga narrativa de 7 actos
 │   └── 05_CAMPANA_MAESTRA_LA_MAREA.md     🚀 Campaña original 5 años "La Marea de los Guardianes"
 │
+├── 🚀 06_LAUNCH_KIT/                LO OPERATIVO PARA LANZAR
+│   ├── 00_ROADMAP_LANZAMIENTO.md          Plan maestro de 6 fases
+│   ├── FASE_1_VISUAL/
+│   │   ├── 01_AUDITORIA_COMPETITIVA.md    Top 20 mascots mundiales analizados
+│   │   ├── 02_BRIEF_VISUAL_DEFINITIVO.md  Specs pixel-perfect Ecuaman v2.0
+│   │   ├── 03_SISTEMA_LOGOS.md            Mark + Wordmark + Lockup + Monogram
+│   │   ├── 04_KIT_GENERACION_6_MASTERS.md Prompts exactos para producir las 6 piezas
+│   │   └── 05_RECREATORS_KIT_PASO_A_PASO.md Cualquier miembro del equipo en 2 horas
+│   └── FASE_3_LEGAL/                     PROTECCIÓN INTEGRAL (patente/registro)
+│       ├── 00_INDICE_PROTECCION_LEGAL.md  Estrategia completa
+│       ├── 01_BRIEF_REGISTRO_MARCA.md     Para abogado: clases, descripciones, lista
+│       ├── 02_DECLARACION_AUTORIA.md      Plantilla notarial
+│       ├── 03_PROTECCION_MECANICAS.md     Cómo proteger lo no-patentable
+│       └── 04_FICHA_TECNICA_PARA_ABOGADO.md Carpeta lista para primera reunión legal
+│
 └── COMO_SUBIR_ARCHIVOS.md           Guía de upload al repo (5 opciones)
 ```
 
