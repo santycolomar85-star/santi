@@ -1,0 +1,42 @@
+name: Generate Ecuaman Images
+
+on:
+  push:
+    paths:
+      - 'scripts/prompts/**'
+      - 'scripts/generate.py'
+      - '.github/workflows/generate-ecuaman.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install --quiet openai requests
+
+      - name: Generate images
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/generate.py
+
+      - name: Commit results
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/ scripts/generation_log.json || true
+          if git diff --cached --quiet; then
+            echo "No new images to commit"
+          else
+            git commit -m "Auto-generated Ecuaman images [skip ci]"
+            git push
+          fi
