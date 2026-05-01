@@ -1,0 +1,50 @@
+[
+  {
+    "id": "40_DAY22_ep2_poster",
+    "description": "Day 22: Episode 02 poster reaching for chosen crystal",
+    "model": "gpt-image-1",
+    "size": "1024x1536",
+    "quality": "high",
+    "prompt": "Dramatic vertical movie poster: young adolescent ECUAMAN (orange hex F39A2B body, curved shrimp tail, no cape yet) reaching toward a single chosen glowing cyan crystal in the dark depths of Pacific Ocean trench, hydrothermal vents in background, dramatic lighting from below illuminating his face revealing intense decision moment, dark fantasy aesthetic. Two long antennae with red yellow Ecuadorian tassels. Pixar/Marvel cinematic poster quality, title text space at bottom, vertical 2:3"
+  },
+  {
+    "id": "41_DAY24_domingo_pensativo",
+    "description": "Day 24: Sunday contemplative on coral",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN sitting peacefully on a coral rock at the bottom of the Pacific Ocean, chin resting on his closed fist contemplating, gentle wise smile. Anatomically accurate Penaeus vannamei: orange hex F39A2B body, curved shrimp tail with fan, no human legs. Two long antennae with red yellow Ecuadorian tassels. Royal blue cape hex 0046AD draped softly around him like a robe. Cyan trident hex 00D9FF planted beside him as a staff. Electric blue belt with 'ECUAMAN' text and gold E medallion. Golden hour light filtering down through water, philosophical atmosphere, Pixar 3D quality"
+  },
+  {
+    "id": "42_DAY25_lunes_dawn_arms_out",
+    "description": "Day 25: Monday emerging at dawn arms outstretched",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN superhero shrimp emerging from water at dawn with both arms outstretched welcoming the day, ready to take on the week, golden sunrise illuminating his form. Anatomically accurate Penaeus vannamei: orange hex F39A2B body, curved shrimp tail with fan, no human legs. Two long antennae with red yellow Ecuadorian tassels. Royal blue cape hex 0046AD billowing dramatically. Cyan trident hex 00D9FF raised with one hand. Electric blue belt with 'ECUAMAN' text and gold E medallion. Optimistic powerful Monday energy, Pacific coast horizon visible, Pixar 3D hero shot"
+  },
+  {
+    "id": "43_DAY26_chef_ceviche",
+    "description": "Day 26: chef hat with ceviche dish",
+    "model": "gpt-image-1",
+    "size": "1024x1536",
+    "quality": "high",
+    "prompt": "ECUAMAN superhero shrimp dressed as a chef wearing a small white chef hat sitting between his antennae, holding a wooden spoon in one hand and a beautifully plated Ecuadorian ceviche on a white dish in the other hand, joyful chef smile. Anatomically accurate Penaeus vannamei: orange hex F39A2B body, curved shrimp tail with fan. Two antennae with red yellow Ecuadorian tassels. Royal blue cape hex 0046AD. Electric blue belt with 'ECUAMAN' text and gold E medallion. Cyan trident hex 00D9FF leaned against his side. Warm bright kitchen-style lighting with Pacific Ocean background slightly out of focus, food photography meets Pixar mascot animation, vertical 9:16, vibrant delicious atmosphere"
+  },
+  {
+    "id": "44_DAY27_iguana_galapagos",
+    "description": "Day 27: with marine iguana in Galapagos",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN swimming alongside a wise old marine iguana near a Galapagos island volcanic underwater landscape, both characters in respectful conversation. ECUAMAN listening attentively with thoughtful expression. Anatomically accurate Penaeus vannamei: orange hex F39A2B body, curved shrimp tail. Two antennae with red yellow Ecuadorian tassels. Royal blue cape hex 0046AD. Electric blue belt with 'ECUAMAN' text and gold E medallion. Cyan trident hex 00D9FF in hand. The marine iguana with knowing wise expression. Sea lions visible in distance, golden afternoon light, unique Galapagos ecosystem, Pixar 3D quality"
+  },
+  {
+    "id": "45_DAY30_community_trident",
+    "description": "Day 30: epic community celebration drone",
+    "model": "gpt-image-1",
+    "size": "1536x1024",
+    "quality": "high",
+    "prompt": "Epic wide-angle aerial drone view of dozens of small glowing avatar silhouettes (representing Guardians) arranged in a trident shape on the surface of an Ecuadorian beach at golden hour. ECUAMAN superhero figure standing in the center of the formation, royal blue cape hex 0046AD billowing, cyan trident hex 00D9FF raised triumphantly above his head. Manabí coastline in background, mangroves silhouetted, golden sunset light. Community celebration atmosphere, epic inspirational ending. Pixar 3D character mixed with photorealistic aerial landscape, horizontal 16:9 composition"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "10_DAY1_buenos_dias",
+    "description": "Day 1: Good morning waving, warm sunrise",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN superhero shrimp mascot waving good morning with right hand raised, big warm friendly smile, eyes sparkling. Anatomically accurate Penaeus vannamei body: orange hex F39A2B segmented carapace forming muscular humanoid torso with six-pack abs, curved shrimp lower body with six abdominal segments and fan tail (NO human legs). Two long antennae with red and yellow Ecuadorian ribbon tassels. Royal blue cape hex 0046AD softly flowing. Electric blue belt hex 1E88E5 with white text 'ECUAMAN' and circular gold-bordered medallion with white E in center. Glowing cyan trident hex 00D9FF in left hand resting. Warm sunrise light filtering through Pacific Ocean waters, peaceful underwater morning atmosphere, Pixar 3D quality, character centered facing camera, square 1:1"
+  },
+  {
+    "id": "11_DAY2_celebration",
+    "description": "Day 2: First Guardian celebration",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN celebration pose, holding up his glowing cyan trident hex 00D9FF in triumph with right hand raised high, left hand giving thumbs up to camera, big proud confident smile. Anatomically accurate Penaeus vannamei superhero: orange hex F39A2B segmented body with six-pack abs and curved shrimp tail with fan, NO human legs. Two long antennae with red yellow Ecuadorian tassels. Royal blue cape hex 0046AD billowing dramatically. Electric blue belt with white 'ECUAMAN' text and gold-bordered medallion with white E. Golden confetti particles floating in the water around him, vibrant Pacific Ocean background with festive god rays from above, joyful celebratory atmosphere, Pixar 3D quality"
+  },
+  {
+    "id": "12_DAY4_lunes_motivacional",
+    "description": "Day 4: Monday motivational ready for the week",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN superhero in confident heroic frontal pose ready for the week, fierce determined smile, cyan trident hex 00D9FF raised high. Anatomically accurate Penaeus vannamei: orange hex F39A2B segmented body, six-pack abs through carapace, curved shrimp lower body with fan tail (no human legs). Two long antennae with red yellow Ecuadorian tassels. Royal blue cape hex 0046AD billowing in morning current. Electric blue belt with white 'ECUAMAN' text and gold-bordered medallion with E. Sunrise rays piercing the Pacific Ocean above him, golden hour light, Monday motivational energy, Pixar 3D quality"
+  },
+  {
+    "id": "13_DAY5_anatomia_lateral",
+    "description": "Day 5: educational lateral side profile showing anatomy",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN side profile lateral view educational illustration showing his anatomy clearly, three-quarter side angle. Anatomically accurate Penaeus vannamei superhero with serrated rostrum (saw-like beak) with 8 visible dorsal teeth highlighted, two long antennae with red yellow Ecuadorian tassels, two short antennules visible, six clearly defined abdominal segments, fan tail with telson and uropods. Orange hex F39A2B body, royal blue cape hex 0046AD, electric blue belt with 'ECUAMAN' text and gold E medallion, cyan trident hex 00D9FF held in front. Clean Pacific Ocean background slightly desaturated for text overlay space at top, character centered, anatomical accuracy emphasized, professional educational image, Pixar 3D quality"
+  },
+  {
+    "id": "14_DAY7_humor_capa",
+    "description": "Day 7: comedic cape tangled in trident",
+    "model": "gpt-image-1",
+    "size": "1024x1536",
+    "quality": "high",
+    "prompt": "ECUAMAN superhero shrimp comically struggling with his royal blue cape hex 0046AD that's wrapped around his glowing cyan trident hex 00D9FF, exasperated funny expression with wide eyes and open mouth, cape physics gone wrong, tangled mess. Anatomically accurate Penaeus vannamei: orange hex F39A2B segmented body, curved shrimp tail with fan, no human legs. Two long antennae with red yellow Ecuadorian tassels. Electric blue belt with white 'ECUAMAN' text and gold E medallion. Underwater Pacific scene with bubbles around him, comedic moment, Pixar style with exaggerated relatable hero expression, vertical 9:16"
+  }
+]

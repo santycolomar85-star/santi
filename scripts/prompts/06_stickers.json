@@ -1,0 +1,98 @@
+[
+  {
+    "id": "S01_sticker_hola",
+    "description": "Sticker 1: Hola - waving",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN sticker for WhatsApp, full body character only on PURE WHITE background isolated for cutout, no scenery, no shadows. Anatomically accurate Penaeus vannamei superhero waving hello with right hand raised palm open, big warm friendly smile, eyes sparkling. Orange hex F39A2B segmented body, curved shrimp tail with fan. Two antennae with red yellow Ecuadorian tassels. Royal blue cape hex 0046AD billowing slightly. Electric blue belt with 'ECUAMAN' text and gold E medallion. Cyan trident hex 00D9FF in left hand resting. Centered composition, vibrant colors, sharp clean edges, sticker style, square 1:1"
+  },
+  {
+    "id": "S02_sticker_thumbsup",
+    "description": "Sticker 2: Thumbs up approval",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN sticker for WhatsApp, full body character only on PURE WHITE background isolated for cutout, no scenery. Anatomically accurate Penaeus vannamei superhero giving thumbs up with right hand, winking with left eye, big knowing smile. Orange hex F39A2B body, curved shrimp tail. Two antennae with red yellow Ecuadorian tassels. Royal blue cape hex 0046AD billowing dynamically. Electric blue belt with 'ECUAMAN' text and gold E medallion. Cyan trident hex 00D9FF vertical in left hand. Sticker style, vibrant clean rendering, square 1:1"
+  },
+  {
+    "id": "S03_sticker_laughing",
+    "description": "Sticker 3: Laughing out loud",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN sticker for WhatsApp, full body character only on PURE WHITE background isolated for cutout, no scenery. Anatomically accurate Penaeus vannamei superhero laughing out loud with head thrown back in big laughter, mouth wide open, eyes squinted closed with laugh wrinkles, hand holding belly. Orange hex F39A2B body. Two antennae with red yellow Ecuadorian tassels. Royal blue cape hex 0046AD relaxed. Electric blue belt with 'ECUAMAN' text and gold E medallion. Cyan trident hex 00D9FF loosely held. Sticker style, square 1:1, joyful pose"
+  },
+  {
+    "id": "S04_sticker_kiss_heart",
+    "description": "Sticker 4: Blowing kiss with cyan heart",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN sticker for WhatsApp, full body character only on PURE WHITE background isolated for cutout, no scenery. Anatomically accurate Penaeus vannamei superhero blowing a kiss with fingers touching mouth gesture, a small glowing cyan heart shape emerging from his hand floating nearby. Sweet tender smile, soft loving eyes. Orange hex F39A2B body. Two antennae with red yellow Ecuadorian tassels. Royal blue cape hex 0046AD gently flowing. Electric blue belt with 'ECUAMAN' text and gold E medallion. Cyan trident hex 00D9FF in other hand. Sticker style, sweet wholesome pose, square 1:1"
+  },
+  {
+    "id": "S05_sticker_gracias",
+    "description": "Sticker 5: Gratitude prayer hands",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN sticker for WhatsApp, full body character only on PURE WHITE background isolated for cutout, no scenery. Anatomically accurate Penaeus vannamei superhero showing gratitude with both hands pressed together in front of chest in thankful prayer gesture, slight head bow. Humble warm smile, soft grateful eyes. Orange hex F39A2B body. Two antennae with red yellow Ecuadorian tassels. Royal blue cape hex 0046AD calmly flowing. Electric blue belt with 'ECUAMAN' text and gold E medallion. Cyan trident hex 00D9FF leaned against side. Sticker style, respectful grateful pose, square 1:1"
+  },
+  {
+    "id": "S06_sticker_shocked",
+    "description": "Sticker 6: Shocked surprised",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN sticker for WhatsApp, full body character only on PURE WHITE background isolated for cutout, no scenery. Anatomically accurate Penaeus vannamei superhero shocked surprised with both hands on cheeks Home Alone style, mouth wide open in big O shape, eyes huge and round. Antennae sticking up alarmed. Orange hex F39A2B body. Two antennae with red yellow Ecuadorian tassels standing up. Royal blue cape hex 0046AD frozen mid-air. Electric blue belt with 'ECUAMAN' text and gold E medallion. Cyan trident dropped to side. Sticker style, comedic surprised pose, square 1:1"
+  },
+  {
+    "id": "S07_sticker_crying",
+    "description": "Sticker 7: Soft crying tear",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN sticker for WhatsApp, full body character only on PURE WHITE background isolated for cutout, no scenery. Anatomically accurate Penaeus vannamei superhero softly crying with single glowing cyan tear falling from right eye, sad gentle expression with slight frown, vulnerable but dignified. Orange hex F39A2B body. Two antennae with red yellow Ecuadorian tassels drooping. Royal blue cape hex 0046AD draped softly. Electric blue belt with 'ECUAMAN' text and gold E medallion. Cyan trident hex 00D9FF held low. Slightly slumped posture. Sticker style, emotional gentle pose, square 1:1"
+  },
+  {
+    "id": "S08_sticker_motivational",
+    "description": "Sticker 8: You can do it - flexing",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN sticker for WhatsApp, full body character only on PURE WHITE background isolated for cutout, no scenery. Anatomically accurate Penaeus vannamei superhero motivational pose flexing right bicep showing muscle while pointing at viewer with left hand, intense motivating smile, fierce determined eyes. Orange hex F39A2B body. Two antennae with red yellow Ecuadorian tassels. Royal blue cape hex 0046AD billowing dramatically as if pep talk. Electric blue belt with 'ECUAMAN' text and gold E medallion. Cyan trident hex 00D9FF on floor next to him. Sticker style, encouraging powerful pose, square 1:1"
+  },
+  {
+    "id": "S09_sticker_serious",
+    "description": "Sticker 9: Serious determined with trident",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN sticker for WhatsApp, full body character only on PURE WHITE background isolated for cutout, no scenery. Anatomically accurate Penaeus vannamei superhero serious determined expression, holding cyan trident hex 00D9FF horizontally crossed against chest, stern but not aggressive expression with slight frown, intense piercing eyes, defensive ready stance. Orange hex F39A2B body. Two antennae with red yellow Ecuadorian tassels. Royal blue cape hex 0046AD billowing fiercely. Electric blue belt with 'ECUAMAN' text and gold E medallion. Sticker style, serious controlled pose, square 1:1"
+  },
+  {
+    "id": "S10_sticker_flag",
+    "description": "Sticker 10: Patriotic with Ecuadorian flag",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN sticker for WhatsApp, full body character only on PURE WHITE background isolated for cutout, no scenery. Anatomically accurate Penaeus vannamei superhero patriotic pose holding the Ecuadorian flag (yellow blue red horizontal stripes) in his right hand waving proudly, cyan trident hex 00D9FF in left hand, proud honorable smile, dignified eyes looking forward. Orange hex F39A2B body. Two antennae with red yellow Ecuadorian tassels matching the flag. Royal blue cape hex 0046AD billowing patriotically. Electric blue belt with 'ECUAMAN' text and gold E medallion. Sticker style, dignified pose, square 1:1"
+  },
+  {
+    "id": "S11_sticker_ceviche",
+    "description": "Sticker 11: Holding ceviche dish",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN sticker for WhatsApp, full body character only on PURE WHITE background isolated for cutout, no scenery. Anatomically accurate Penaeus vannamei superhero holding gourmet Ecuadorian ceviche dish on white plate with shrimp, lime, red onion, cilantro, tomato. Chef-like proud smile, mouth-watering expression. Orange hex F39A2B body. Two antennae with red yellow Ecuadorian tassels. Royal blue cape hex 0046AD relaxed. Electric blue belt with 'ECUAMAN' text and gold E medallion. Cyan trident hex 00D9FF leaned against side. Sticker style, foodie delicious pose, square 1:1"
+  },
+  {
+    "id": "S12_sticker_goodbye",
+    "description": "Sticker 12: Waving goodbye",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN sticker for WhatsApp, full body character only on PURE WHITE background isolated for cutout, no scenery. Anatomically accurate Penaeus vannamei superhero waving goodbye, body turned slightly away as if swimming off, looking back over shoulder with warm farewell smile, right hand raised waving, soft caring eyes. Orange hex F39A2B body. Two antennae with red yellow Ecuadorian tassels trailing. Royal blue cape hex 0046AD billowing dramatically as if swimming away. Electric blue belt with 'ECUAMAN' text and gold E medallion. Cyan trident hex 00D9FF in left hand. Sticker style, parting farewell pose, square 1:1"
+  }
+]

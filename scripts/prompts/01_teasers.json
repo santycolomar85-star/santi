@@ -1,0 +1,34 @@
+[
+  {
+    "id": "01_TEASER_silhouette",
+    "description": "Day -7: mysterious silhouette teaser",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "Mysterious dark silhouette of an underwater shrimp superhero figure, only outline visible holding a glowing cyan trident, deep dark Pacific Ocean background, dramatic backlit cinematic atmosphere, no character details visible just silhouette and the bright cyan trident glow, hex 001A3D background, subtle bioluminescent particles, intriguing teaser image, square format"
+  },
+  {
+    "id": "02_TEASER_antennae",
+    "description": "Day -5: close-up antennae emerging with Ecuadorian tassels",
+    "model": "gpt-image-1",
+    "size": "1024x1536",
+    "quality": "high",
+    "prompt": "Extreme close-up of two long thin shrimp antennae emerging from dark Pacific Ocean water surface, tipped with feathered tassels showing red ribbon hex CE1126 and yellow ribbon hex FFDD00 in Ecuadorian flag colors, mysterious cinematic dawn lighting, water droplets clinging to antennae, shallow depth of field background blurred deep blue, vertical composition, teaser shot"
+  },
+  {
+    "id": "03_TEASER_trident",
+    "description": "Day -3: glowing cyan trident underwater no character",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "A single glowing cyan-aqua energy trident floating underwater, hex 00D9FF brilliant plasma core with three symmetric prongs and bright halo, bioluminescent particles streaming off the points, deep ocean dark blue background hex 001A3D, water surface visible above with light refraction, dramatic underwater lighting, no character visible just the magical trident, mysterious powerful atmosphere"
+  },
+  {
+    "id": "04_TEASER_emerging",
+    "description": "Day -1: silhouette emerging at dawn",
+    "model": "gpt-image-1",
+    "size": "1024x1536",
+    "quality": "high",
+    "prompt": "Heroic shrimp superhero silhouette emerging from deep Pacific Ocean water at dawn, golden sunrise rays piercing through, only outline of ECUAMAN figure visible against bright dawn light, cyan trident glowing in his hand, cinematic underwater shot looking from below, anticipation atmosphere, gradient from dark blue water below to warm orange dawn colors above, vertical poster composition, reveal moment about to happen"
+  }
+]

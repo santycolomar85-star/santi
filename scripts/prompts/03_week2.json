@@ -1,0 +1,42 @@
+[
+  {
+    "id": "20_DAY8_ep1_promo",
+    "description": "Day 8: Episode 01 promo poster Don Galo and young Ecuaman",
+    "model": "gpt-image-1",
+    "size": "1024x1536",
+    "quality": "high",
+    "prompt": "Movie poster for animated short film, vertical 2:3 composition. Cinematic emotional scene: old Ecuadorian fisherman Don Galo (75 years old, weathered face, white shirt, straw Toquilla hat) sitting at the edge of a small mangrove shrimp pond in Manabí Ecuador at golden hour, kind paternal expression, looking down at the water. In the water peeking up curiously is YOUNG ADOLESCENT ECUAMAN (smaller version, orange hex F39A2B segmented body, curved shrimp tail, NO cape, NO trident, just antennae with red yellow Ecuadorian tassels and a small E mark on his cefalotorax). Warm sunset light, mangroves silhouettes, Pacific Ocean horizon. Pixar Coco emotional aesthetic, deep human-creature connection, intimate familial atmosphere. Title text space at bottom"
+  },
+  {
+    "id": "21_DAY10_domingo_flotando",
+    "description": "Day 10: Sunday floating peacefully",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN floating peacefully in calm Pacific Ocean waters, serene contemplative expression, eyes half-closed in meditation, body relaxed in zen-like state. Anatomically accurate Penaeus vannamei: orange hex F39A2B segmented body, curved shrimp tail with fan, no human legs. Two long antennae with red yellow Ecuadorian tassels gently swaying. Royal blue cape hex 0046AD gently flowing in slow currents. Electric blue belt with 'ECUAMAN' text and gold E medallion. Cyan trident hex 00D9FF held loosely at his side. Soft golden hour light filtering through the water surface above, peaceful spiritual atmosphere, gentle bioluminescent particles in soft bokeh, Pixar 3D quality"
+  },
+  {
+    "id": "22_DAY11_lunes_warrior",
+    "description": "Day 11: Monday warrior stance",
+    "model": "gpt-image-1",
+    "size": "1024x1536",
+    "quality": "high",
+    "prompt": "ECUAMAN in determined warrior stance underwater, cyan trident hex 00D9FF held in both hands across his chest defensively then ready to fight, intense focused eyes with serious determination. Anatomically accurate Penaeus vannamei: orange hex F39A2B segmented body with six-pack abs, curved shrimp tail with fan, no human legs. Two long antennae with red yellow Ecuadorian tassels alert. Royal blue cape hex 0046AD billowing fiercely. Electric blue belt with 'ECUAMAN' white text and gold E medallion. Deep Pacific Ocean background with dramatic god rays, warrior energy, vertical poster composition, vibrant colors, Pixar 3D quality"
+  },
+  {
+    "id": "23_DAY12_trazabilidad",
+    "description": "Day 12: traceability from mangrove to plate",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN superhero shrimp pointing toward right with extended arm, presenting a journey infographic-style. Anatomically accurate Penaeus vannamei: orange hex F39A2B body, curved shrimp tail, no human legs. Cyan arrows in his pointing direction showing flow from Ecuadorian mangrove silhouette on the left to a beautifully plated Ecuadorian ceviche on the right. Royal blue cape hex 0046AD, electric blue belt with 'ECUAMAN' text, gold E medallion. Clean educational composition with negative space at top for text overlay, underwater stylized infographic style, Pixar 3D quality"
+  },
+  {
+    "id": "24_DAY15_asamblea_zero",
+    "description": "Day 15: Asamblea Cero live preview",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN superhero shrimp standing on a glowing cyan underwater stage as if about to give a ceremonial speech to his community, holding his trident upright with confidence, looking directly at camera with serious authentic expression. Anatomically accurate Penaeus vannamei: orange hex F39A2B body, curved shrimp tail, two long antennae with red yellow Ecuadorian tassels, six abdominal segments visible. Royal blue cape hex 0046AD draped formally. Electric blue belt with 'ECUAMAN' text and gold E medallion. Soft glowing audience of small Guardian avatar silhouettes visible in soft bokeh background. Ceremonial atmosphere, golden spotlights from above, deep Pacific Ocean setting, Pixar 3D quality"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "30_DAY17_galapagos",
+    "description": "Day 17: Sunday lifestyle Galapagos coral reef",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN swimming peacefully through a vibrant Galapagos coral reef ecosystem, surrounded by colorful tropical fish swimming alongside him in friendship. Anatomically accurate Penaeus vannamei: orange hex F39A2B segmented body, curved shrimp tail with fan, no human legs. Two long antennae with red yellow Ecuadorian tassels. Royal blue cape hex 0046AD gently flowing, cyan trident hex 00D9FF relaxed. Electric blue belt with 'ECUAMAN' text and gold E medallion. Golden afternoon sun rays piercing through the water creating caustics, lush underwater ecosystem with vivid coral colors, contemplative explorer atmosphere, Pixar 3D quality"
+  },
+  {
+    "id": "31_DAY19_manglar_planting",
+    "description": "Day 19: sustainability planting mangrove sapling",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN gently planting a small green mangrove sapling in underwater soil with caring tender expression, kneeling with care. Anatomically accurate Penaeus vannamei: orange hex F39A2B body, curved shrimp tail with fan, no human legs. Two long antennae with red yellow Ecuadorian tassels. Royal blue cape hex 0046AD draped softly. Electric blue belt with 'ECUAMAN' text and gold E medallion. Cyan trident hex 00D9FF planted beside him as decoration. Surrounded by existing mangrove roots, small fish swimming nearby, soft caring smile. Warm sustainable ecological atmosphere, Pixar 3D quality, soft underwater forest setting"
+  },
+  {
+    "id": "32_DAY20_three_crystals",
+    "description": "Day 20: Episode 02 promo three crystals choice",
+    "model": "gpt-image-1",
+    "size": "1024x1536",
+    "quality": "high",
+    "prompt": "Cinematic dark scene: young adolescent ECUAMAN character (smaller, no cape yet, no trident yet, just orange F39A2B body with antennae and Ecuadorian tassels) facing three glowing crystals floating in dark deep ocean trench: cyan crystal hex 00D9FF on left, golden crystal in middle, fiery red-orange crystal on right. His face illuminated by their colored lights showing tough decision moment. Hydrothermal vents barely visible. Dramatic dark fantasy underwater atmosphere, Pixar/Marvel quality, mysterious choice, vertical 9:16 composition"
+  },
+  {
+    "id": "33_DAY21_humor_flexing",
+    "description": "Day 21: humor flexing muscles bicep",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "ECUAMAN flexing his right bicep muscles proudly with cocky confident smile, eyes confident. Anatomically accurate Penaeus vannamei: orange hex F39A2B body showing defined muscular humanoid arms with bare skin, six-pack abs, curved shrimp tail, no human legs. Two long antennae with red yellow Ecuadorian tassels. Royal blue cape hex 0046AD billowing dramatically behind. Cyan trident hex 00D9FF raised in opposite hand. Electric blue belt with 'ECUAMAN' text and gold E medallion. Pacific Ocean background with dynamic energy lines, swagger pose, Pixar 3D quality, relatable funny mood"
+  }
+]
