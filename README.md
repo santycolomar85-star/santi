@@ -41,6 +41,13 @@ ECUANUTRITION/MARKETING/ECUAMAN/
 │   │   ├── 03_SISTEMA_LOGOS.md            Mark + Wordmark + Lockup + Monogram
 │   │   ├── 04_KIT_GENERACION_6_MASTERS.md Prompts exactos para producir las 6 piezas
 │   │   └── 05_RECREATORS_KIT_PASO_A_PASO.md Cualquier miembro del equipo en 2 horas
+│   ├── FASE_2_VOZ/                       VOZ Y NARRATIVA OPERATIVA
+│   │   ├── 01_MANIFIESTO_OFICIAL.md       Manifiesto en 4 formatos + traducción EN
+│   │   ├── 02_VIDEO_LANZAMIENTO_90s.md    Guion frame-by-frame + prompts Veo
+│   │   ├── 03_EPISODIO_01_MINI_SERIE.md   Guion técnico de 3:30 con casting
+│   │   ├── 04_KIT_12_STICKERS.md          12 stickers WhatsApp/Telegram con prompts
+│   │   ├── 05_PRESS_KIT.md                Press kit ES + EN completo
+│   │   └── 06_BANCO_DE_VOZ.md             100+ frases firma + plantillas + respuestas
 │   └── FASE_3_LEGAL/                     PROTECCIÓN INTEGRAL (patente/registro)
 │       ├── 00_INDICE_PROTECCION_LEGAL.md  Estrategia completa
 │       ├── 01_BRIEF_REGISTRO_MARCA.md     Para abogado: clases, descripciones, lista
