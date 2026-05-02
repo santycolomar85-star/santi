@@ -53,7 +53,15 @@ for item in items:
             kwargs["quality"] = item.get("quality", "hd")
         else:
             kwargs["quality"] = item.get("quality", "high")
-        resp = client.images.generate(**kwargs)
+        ref_image = item.get("reference_image")
+        if ref_image:
+            ref_path = ROOT / ref_image
+            with open(ref_path, "rb") as imgf:
+                resp = client.images.edit(model=model, image=imgf, prompt=item["prompt"],
+                                          size=item.get("size", "1024x1024"),
+                                          quality=item.get("quality", "high"), n=1)
+        else:
+            resp = client.images.generate(**kwargs)
         d = resp.data[0]
         revised = getattr(d, "revised_prompt", None) or ""
         if getattr(d, "b64_json", None):
