@@ -304,5 +304,53 @@
     "quality": "high",
     "revised_prompt": "",
     "timestamp": 1777680880.892675
+  },
+  {
+    "id": "04_TEASER_emerging",
+    "status": "error",
+    "error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached.', 'type': 'billing_limit_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}",
+    "timestamp": 1777682166.300738
+  },
+  {
+    "id": "32_DAY20_three_crystals",
+    "status": "error",
+    "error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached.', 'type': 'billing_limit_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}",
+    "timestamp": 1777682166.5439923
+  },
+  {
+    "id": "40_DAY22_ep2_poster",
+    "status": "error",
+    "error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached.', 'type': 'billing_limit_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}",
+    "timestamp": 1777682166.7767653
+  },
+  {
+    "id": "45_DAY30_community_trident",
+    "status": "error",
+    "error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached.', 'type': 'billing_limit_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}",
+    "timestamp": 1777682166.8618915
+  },
+  {
+    "id": "04_TEASER_emerging",
+    "status": "error",
+    "error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached.', 'type': 'billing_limit_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}",
+    "timestamp": 1777682167.0934963
+  },
+  {
+    "id": "32_DAY20_three_crystals",
+    "status": "error",
+    "error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached.', 'type': 'billing_limit_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}",
+    "timestamp": 1777682167.1696095
+  },
+  {
+    "id": "40_DAY22_ep2_poster",
+    "status": "error",
+    "error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached.', 'type': 'billing_limit_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}",
+    "timestamp": 1777682167.474042
+  },
+  {
+    "id": "45_DAY30_community_trident",
+    "status": "error",
+    "error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached.', 'type': 'billing_limit_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}",
+    "timestamp": 1777682167.5599155
   }
 ]
