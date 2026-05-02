@@ -1,0 +1,127 @@
+[
+  {
+    "id": "PODCAST_LOGO_ECUAMAN_HABLA_v2",
+    "description": "Logo show 'ECUAMAN HABLA' v2 - alto contraste, fondo Azul Marino solido",
+    "model": "gpt-image-1",
+    "size": "1536x1024",
+    "quality": "high",
+    "prompt": "Premium logo design for the animated podcast 'ECUAMAN HABLA'. SOLID DEEP AZUL MARINO BACKGROUND hex 295071 covering the entire frame edge to edge (no gradient, no transparency). Centered composition. TOP CENTER: massive bold title 'ECUAMAN HABLA' in BRIGHT WHITE hex FFFFFF Figtree Black sans-serif capital letters with strong letter spacing, perfectly legible high contrast. CENTER BELOW TITLE: a cinematic broadcast microphone icon in CELESTE FRESCO hex 7CBFF6 with three radiating sound waves arcs glowing on each side, the microphone head subtly shaped like a stylized shrimp rostrum (saw-edge pico) but unmistakably a microphone. Below microphone: thin horizontal CORAL hex FF6E6E underline accent stroke. BOTTOM CENTER: small letter-spaced caps 'A PODCAST BY ECUANUTRITION' (with ONE 'I' between 'TR' and 'TION', spelled correctly E-C-U-A-N-U-T-R-I-T-I-O-N) in WHITE Figtree Light. BOTTOM RIGHT CORNER: small Celeste Fresco lowercase 'e' Cormorant Light isotype with a tiny Celeste dot upper-right of the e (the official Ecuanutrition isotype). NO ECUAMAN character drawn. Premium broadcast graphic, sharp clean edges, vibrant colors, suitable for YouTube channel art and podcast cover thumbnail. The text MUST be perfectly readable - white on dark navy."
+  },
+  {
+    "id": "PODCAST_YOUTUBE_BANNER_v2",
+    "description": "Banner YouTube v2 - corregir typo ECUANUTRITION (no ECUANUTRITIION)",
+    "model": "gpt-image-1",
+    "size": "1536x1024",
+    "quality": "high",
+    "reference_image": "ECUANUTRITION/MARKETING/00_BRAND_OFICIAL/MASTER_CANONICAL/locked/ECUAMAN_MASTER_PODCAST.png",
+    "prompt": "Cinematic YouTube channel banner. Same exact ECUAMAN character as the reference image, seated at podcast desk with broadcast microphone, ON AIR red sign visible. LEFT SIDE 60%: ECUAMAN at the podcast desk scene as in the reference image. RIGHT SIDE 40%: clean solid Azul Marino hex 295071 panel with text stacked vertically:\n  Line 1 (large white Figtree Black caps): 'ECUAMAN'\n  Line 2 (large white Figtree Black caps directly below): 'HABLA'\n  Line 3 (thin Coral hex FF6E6E horizontal underline accent stroke)\n  Line 4 (medium white Figtree Regular caps): 'EL PODCAST DEL'\n  Line 5 (medium white Figtree Regular caps): 'OCEANO ECUATORIANO'\n  Line 6 (small Celeste Fresco hex 7CBFF6 lowercase 'e' isotype + small white text): 'A PODCAST BY ECUANUTRITION'\nCRITICAL SPELLING: the brand name is 'ECUANUTRITION' - exactly thirteen letters E-C-U-A-N-U-T-R-I-T-I-O-N. ONLY ONE 'I' between TR and TION. Do NOT write ECUANUTRITIION (with double I) or any other variant.\nSubtle Celeste Fresco hex 7CBFF6 ambient glow around the 'ECUAMAN HABLA' title. Premium broadcast feel."
+  },
+  {
+    "id": "S01_sticker_hola_v2",
+    "description": "Sticker 1: Hola - waving (v2 paleta correcta + master ref)",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "reference_image": "ECUANUTRITION/MARKETING/00_BRAND_OFICIAL/MASTER_CANONICAL/locked/ECUAMAN_MASTER_HERO_ACTION.png",
+    "prompt": "Same exact ECUAMAN character as the reference image but in a sticker style on PURE WHITE background hex FFFFFF (no scenery, isolated for cutout, no shadows). Pose: waving hello with right hand raised palm open, big warm friendly smile, eyes sparkling. Keep the IDENTICAL costume and palette: Azul Marino hex 295071 cape billowing slightly, Azul Marino belt with white 'ECUAMAN' Figtree caps text and the central white circle medallion with a lowercase 'e' Cormorant Light in Azul Marino with a Celeste Fresco hex 7CBFF6 dot upper-right (Ecuanutrition isotype). Trident with Celeste Fresco hex 7CBFF6 plasma glow held low or set aside. Orange hex F39A2B body, antennae with red CE1126 + yellow FFDD00 ribbon tassels. Centered, vibrant, sharp clean edges, sticker style, square 1:1."
+  },
+  {
+    "id": "S02_sticker_thumbsup_v2",
+    "description": "Sticker 2: Thumbs up (v2)",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "reference_image": "ECUANUTRITION/MARKETING/00_BRAND_OFICIAL/MASTER_CANONICAL/locked/ECUAMAN_MASTER_HERO_ACTION.png",
+    "prompt": "Same exact ECUAMAN character as the reference image but on PURE WHITE background hex FFFFFF isolated, no scenery. Pose: giving thumbs up with right hand, winking with left eye, big knowing smile. Keep IDENTICAL costume: Azul Marino hex 295071 cape billowing dynamically, Azul Marino belt with white 'ECUAMAN' Figtree caps and central white circle with lowercase 'e' Cormorant in Azul Marino + Celeste Fresco dot. Trident with Celeste Fresco hex 7CBFF6 glow held vertical in left hand. Sticker style, vibrant clean rendering, square 1:1."
+  },
+  {
+    "id": "S03_sticker_laughing_v2",
+    "description": "Sticker 3: Laughing out loud (v2)",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "reference_image": "ECUANUTRITION/MARKETING/00_BRAND_OFICIAL/MASTER_CANONICAL/locked/ECUAMAN_MASTER_HERO_ACTION.png",
+    "prompt": "Same exact ECUAMAN character as the reference image but on PURE WHITE background hex FFFFFF isolated. Pose: laughing out loud head thrown back in big laughter, mouth wide open, eyes squinted closed with laugh wrinkles, hand holding belly. Keep IDENTICAL costume: Azul Marino hex 295071 cape relaxed, Azul Marino belt with 'ECUAMAN' caps + central white 'e' medallion with Celeste dot. Trident with Celeste hex 7CBFF6 glow loosely held. Sticker style, square 1:1, joyful pose."
+  },
+  {
+    "id": "S04_sticker_kiss_heart_v2",
+    "description": "Sticker 4: Blowing kiss with celeste heart (v2)",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "reference_image": "ECUANUTRITION/MARKETING/00_BRAND_OFICIAL/MASTER_CANONICAL/locked/ECUAMAN_MASTER_HERO_ACTION.png",
+    "prompt": "Same exact ECUAMAN character as the reference image but on PURE WHITE background isolated. Pose: blowing a kiss fingers touching mouth gesture, a small glowing CELESTE FRESCO hex 7CBFF6 heart shape emerging from his hand floating nearby. Sweet tender smile, soft loving eyes. Keep IDENTICAL costume Azul Marino 295071 cape gently flowing, belt with 'ECUAMAN' caps + central 'e' medallion. Trident Celeste glow in other hand. Sticker style, sweet wholesome pose, square 1:1."
+  },
+  {
+    "id": "S05_sticker_gracias_v2",
+    "description": "Sticker 5: Gratitude prayer hands (v2)",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "reference_image": "ECUANUTRITION/MARKETING/00_BRAND_OFICIAL/MASTER_CANONICAL/locked/ECUAMAN_MASTER_HERO_ACTION.png",
+    "prompt": "Same exact ECUAMAN character as the reference image but on PURE WHITE background isolated. Pose: gratitude with both hands pressed together in front of chest in thankful prayer gesture, slight head bow, humble warm smile, soft grateful eyes. Keep IDENTICAL costume Azul Marino 295071 cape calmly flowing, belt with 'ECUAMAN' caps + central 'e' medallion. Trident Celeste glow leaned against side. Sticker style, respectful grateful pose, square 1:1."
+  },
+  {
+    "id": "S06_sticker_shocked_v2",
+    "description": "Sticker 6: Shocked surprised (v2)",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "reference_image": "ECUANUTRITION/MARKETING/00_BRAND_OFICIAL/MASTER_CANONICAL/locked/ECUAMAN_MASTER_HERO_ACTION.png",
+    "prompt": "Same exact ECUAMAN character as the reference image but on PURE WHITE background isolated. Pose: shocked surprised both hands on cheeks Home Alone style, mouth wide open in big O shape, eyes huge and round, antennae sticking up alarmed. Keep IDENTICAL costume Azul Marino 295071 cape frozen mid-air, belt with 'ECUAMAN' caps + 'e' medallion. Trident dropped to side. Sticker style, comedic surprised pose, square 1:1."
+  },
+  {
+    "id": "S07_sticker_crying_v2",
+    "description": "Sticker 7: Soft crying tear (v2)",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "reference_image": "ECUANUTRITION/MARKETING/00_BRAND_OFICIAL/MASTER_CANONICAL/locked/ECUAMAN_MASTER_HERO_ACTION.png",
+    "prompt": "Same exact ECUAMAN character as the reference image but on PURE WHITE background isolated. Pose: softly crying with single glowing CELESTE FRESCO hex 7CBFF6 tear falling from right eye, sad gentle expression slight frown, vulnerable but dignified, slightly slumped posture. Keep IDENTICAL costume Azul Marino 295071 cape draped softly, belt with 'ECUAMAN' caps + 'e' medallion, antennae drooping. Trident held low. Sticker style, emotional gentle pose, square 1:1."
+  },
+  {
+    "id": "S08_sticker_motivational_v2",
+    "description": "Sticker 8: You can do it - flexing (v2)",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "reference_image": "ECUANUTRITION/MARKETING/00_BRAND_OFICIAL/MASTER_CANONICAL/locked/ECUAMAN_MASTER_HERO_ACTION.png",
+    "prompt": "Same exact ECUAMAN character as the reference image but on PURE WHITE background isolated. Pose: motivational flexing right bicep showing muscle while pointing at viewer with left hand, intense motivating smile, fierce determined eyes. Keep IDENTICAL costume Azul Marino 295071 cape billowing dramatically as if pep talk, belt with 'ECUAMAN' caps + 'e' medallion. Trident Celeste glow on floor next to him. Sticker style, encouraging powerful pose, square 1:1."
+  },
+  {
+    "id": "S09_sticker_serious_v2",
+    "description": "Sticker 9: Serious determined with trident (v2)",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "reference_image": "ECUANUTRITION/MARKETING/00_BRAND_OFICIAL/MASTER_CANONICAL/locked/ECUAMAN_MASTER_HERO_ACTION.png",
+    "prompt": "Same exact ECUAMAN character as the reference image but on PURE WHITE background isolated. Pose: serious determined expression, holding trident with Celeste Fresco hex 7CBFF6 plasma glow horizontally crossed against chest, stern but not aggressive expression with slight frown, intense piercing eyes, defensive ready stance. Keep IDENTICAL costume Azul Marino 295071 cape billowing fiercely, belt with 'ECUAMAN' caps + 'e' medallion. Sticker style, serious controlled pose, square 1:1."
+  },
+  {
+    "id": "S10_sticker_flag_v2",
+    "description": "Sticker 10: Patriotic with Ecuadorian flag (v2)",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "reference_image": "ECUANUTRITION/MARKETING/00_BRAND_OFICIAL/MASTER_CANONICAL/locked/ECUAMAN_MASTER_HERO_ACTION.png",
+    "prompt": "Same exact ECUAMAN character as the reference image but on PURE WHITE background isolated. Pose: patriotic holding the Ecuadorian flag (yellow blue red horizontal stripes top to bottom, with the central coat of arms simplified) in his right hand waving proudly, trident with Celeste Fresco hex 7CBFF6 glow in left hand, proud honorable smile, dignified eyes looking forward. Keep IDENTICAL costume Azul Marino 295071 cape billowing patriotically, belt with 'ECUAMAN' caps + 'e' medallion. Sticker style, dignified pose, square 1:1."
+  },
+  {
+    "id": "S11_sticker_ceviche_v2",
+    "description": "Sticker 11: Holding ceviche dish (v2)",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "reference_image": "ECUANUTRITION/MARKETING/00_BRAND_OFICIAL/MASTER_CANONICAL/locked/ECUAMAN_MASTER_HERO_ACTION.png",
+    "prompt": "Same exact ECUAMAN character as the reference image but on PURE WHITE background isolated. Pose: holding gourmet Ecuadorian ceviche dish on white plate (cooked shrimp, lime, red onion, cilantro, tomato chunks). Chef-like proud smile, mouth-watering expression. Keep IDENTICAL costume Azul Marino 295071 cape relaxed, belt with 'ECUAMAN' caps + 'e' medallion. Trident Celeste glow leaned against side. Sticker style, foodie delicious pose, square 1:1."
+  },
+  {
+    "id": "S12_sticker_goodbye_v2",
+    "description": "Sticker 12: Waving goodbye (v2)",
+    "model": "gpt-image-1",
+    "size": "1024x1024",
+    "quality": "high",
+    "reference_image": "ECUANUTRITION/MARKETING/00_BRAND_OFICIAL/MASTER_CANONICAL/locked/ECUAMAN_MASTER_HERO_ACTION.png",
+    "prompt": "Same exact ECUAMAN character as the reference image but on PURE WHITE background isolated. Pose: waving goodbye, body turned slightly away as if swimming off, looking back over shoulder with warm farewell smile, right hand raised waving, soft caring eyes. Keep IDENTICAL costume Azul Marino 295071 cape billowing dramatically as if swimming away, belt with 'ECUAMAN' caps + 'e' medallion, antennae trailing. Trident Celeste glow in left hand. Sticker style, parting farewell pose, square 1:1."
+  }
+]
