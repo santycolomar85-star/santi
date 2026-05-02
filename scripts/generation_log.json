@@ -421,5 +421,14 @@
     "quality": "high",
     "revised_prompt": "",
     "timestamp": 1777746088.782887
+  },
+  {
+    "id": "EMAIL_PFP_INVOICE_OFICIAL_v1",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/EMAIL_PFP_INVOICE_OFICIAL_v1.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777746278.4555314
   }
 ]
