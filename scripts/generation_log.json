@@ -352,5 +352,77 @@
     "status": "error",
     "error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached.', 'type': 'billing_limit_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}",
     "timestamp": 1777682167.5599155
+  },
+  {
+    "id": "04_TEASER_emerging",
+    "status": "error",
+    "error": "Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************0PsA. You can find your API key at https://platform.openai.com/account/",
+    "timestamp": 1777711058.539825
+  },
+  {
+    "id": "32_DAY20_three_crystals",
+    "status": "error",
+    "error": "Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************0PsA. You can find your API key at https://platform.openai.com/account/",
+    "timestamp": 1777711058.6045709
+  },
+  {
+    "id": "40_DAY22_ep2_poster",
+    "status": "error",
+    "error": "Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************0PsA. You can find your API key at https://platform.openai.com/account/",
+    "timestamp": 1777711058.6517568
+  },
+  {
+    "id": "45_DAY30_community_trident",
+    "status": "error",
+    "error": "Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************0PsA. You can find your API key at https://platform.openai.com/account/",
+    "timestamp": 1777711058.7511528
+  },
+  {
+    "id": "04_TEASER_emerging",
+    "status": "error",
+    "error": "Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************0PsA. You can find your API key at https://platform.openai.com/account/",
+    "timestamp": 1777711058.8140175
+  },
+  {
+    "id": "32_DAY20_three_crystals",
+    "status": "error",
+    "error": "Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************0PsA. You can find your API key at https://platform.openai.com/account/",
+    "timestamp": 1777711058.8632975
+  },
+  {
+    "id": "40_DAY22_ep2_poster",
+    "status": "error",
+    "error": "Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************0PsA. You can find your API key at https://platform.openai.com/account/",
+    "timestamp": 1777711058.9249282
+  },
+  {
+    "id": "45_DAY30_community_trident",
+    "status": "error",
+    "error": "Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************0PsA. You can find your API key at https://platform.openai.com/account/",
+    "timestamp": 1777711058.9846354
+  },
+  {
+    "id": "MASTER_A_HEROIC_FRONTAL_v3",
+    "status": "error",
+    "error": "Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************0PsA. You can find your API key at https://platform.openai.com/account/",
+    "timestamp": 1777711059.0353537
+  },
+  {
+    "id": "MASTER_B_HEROIC_THREE_QUARTER_v3",
+    "status": "error",
+    "error": "Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************0PsA. You can find your API key at https://platform.openai.com/account/",
+    "timestamp": 1777711059.1000469
+  },
+  {
+    "id": "MASTER_C_PODCAST_HOST_v3",
+    "status": "error",
+    "error": "Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************0PsA. You can find your API key at https://platform.openai.com/account/",
+    "timestamp": 1777711059.1552358
+  },
+  {
+    "id": "MASTER_D_BUST_PORTRAIT_v3",
+    "status": "error",
+    "error": "Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************0PsA. You can find your API key at https://platform.openai.com/account/",
+    "timestamp": 1777711059.2054963
   }
 ]
