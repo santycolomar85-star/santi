@@ -1,38 +1,34 @@
 [
   {
     "id": "04_TEASER_emerging",
-    "description": "Day -1: ECUAMAN emerging at dawn (using master as reference)",
+    "description": "Day -1: ECUAMAN emerging at dawn (proven pattern)",
     "model": "gpt-image-1",
     "size": "1024x1536",
     "quality": "high",
-    "reference_image": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/00_DAY0_MASTER_HEROIC_VERTICAL_v2.png",
-    "prompt": "Place this exact same ECUAMAN shrimp character emerging from the surface of Pacific Ocean water at dawn. His upper body visible above waterline, lower curved shrimp tail submerged. Royal blue cape billowing dramatically behind him. Cyan trident raised high in his right hand glowing brightly. Golden sunrise sky in background with warm orange and pink clouds. Pacific Ocean waves around him. Dramatic rim lighting from behind. Maintain identical visual identity: orange F39A2B body, royal blue cape, electric blue belt with white ECUAMAN text and gold E medallion, two antennae with red and yellow tassels, cyan glowing trident. Vertical 9:16 hero composition."
+    "prompt": "ECUAMAN superhero shrimp mascot of Ecuanutrition, full body in heroic pose. Anatomically accurate Penaeus vannamei: orange hex F39A2B segmented body forming muscular humanoid torso with six-pack abs, curved shrimp tail with fan at the bottom (NO human legs), serrated rostrum beak with 8 teeth, two long antennae with red yellow Ecuadorian ribbon tassels. Royal blue cape hex 0046AD billowing dramatically. Cyan trident hex 00D9FF raised triumphantly in his right hand. Electric blue belt with white text 'ECUAMAN' and gold-bordered medallion with white E in the center. Big proud confident smile. He is rising from Pacific Ocean water at dawn with golden sunrise sky behind him, dramatic backlit dawn rays, ocean waves around him. Vertical 9:16 hero composition, Pixar 3D quality"
   },
   {
     "id": "32_DAY20_three_crystals",
-    "description": "Day 20: ECUAMAN with three crystals (using master as reference)",
+    "description": "Day 20: ECUAMAN with three crystals (proven pattern)",
     "model": "gpt-image-1",
     "size": "1024x1536",
     "quality": "high",
-    "reference_image": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/00_DAY0_MASTER_HEROIC_VERTICAL_v2.png",
-    "prompt": "Place this exact same ECUAMAN shrimp character floating in a dark deep underwater hydrothermal trench facing three glowing crystals: cyan crystal on the left, golden crystal in the middle, fiery red-orange crystal on the right. The colored crystal lights illuminate his face showing serious contemplative expression. Maintain identical visual identity: orange F39A2B segmented body with six-pack abs, curved shrimp tail with fan, two antennae with red yellow Ecuadorian tassels, royal blue cape billowing slowly, electric blue belt with white ECUAMAN text and gold E medallion, cyan trident in his hand. Hydrothermal vents glowing in background. Dark dramatic side-lit cinematic atmosphere. Vertical 9:16 composition."
+    "prompt": "ECUAMAN superhero shrimp mascot of Ecuanutrition, full body in contemplative pose looking at three crystals. Anatomically accurate Penaeus vannamei: orange hex F39A2B segmented body forming muscular humanoid torso with six-pack abs, curved shrimp tail with fan at the bottom (NO human legs), two long antennae with red yellow Ecuadorian ribbon tassels. Royal blue cape hex 0046AD billowing slowly. Cyan trident hex 00D9FF held in left hand. Electric blue belt with white text 'ECUAMAN' and gold-bordered medallion with white E. Serious thoughtful expression. He floats in a dark deep ocean trench facing three glowing crystals: cyan crystal on left, golden crystal in middle, fiery red crystal on right. Hydrothermal vents glowing in the background. Dark cinematic atmosphere, vertical 9:16 composition, Pixar 3D quality"
   },
   {
     "id": "40_DAY22_ep2_poster",
-    "description": "Day 22: ECUAMAN reaching for crystal poster (using master as reference)",
+    "description": "Day 22: ECUAMAN reaching for crystal (proven pattern)",
     "model": "gpt-image-1",
     "size": "1024x1536",
     "quality": "high",
-    "reference_image": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/00_DAY0_MASTER_HEROIC_VERTICAL_v2.png",
-    "prompt": "Place this exact same ECUAMAN shrimp character reaching with his hand toward a single brilliantly glowing cyan crystal floating in the dark depths of Pacific Ocean trench. Maintain identical visual identity: orange F39A2B body, royal blue cape billowing dramatically, electric blue belt with white ECUAMAN text and gold E medallion, two antennae with red yellow tassels, cyan trident in his other hand. Hydrothermal vents glowing in background. Dramatic lighting from below illuminating his face revealing intense decision moment. Dark fantasy aesthetic. Pixar/Marvel cinematic poster quality. Vertical 2:3."
+    "prompt": "ECUAMAN superhero shrimp mascot of Ecuanutrition, full body reaching with right hand toward a brilliantly glowing cyan crystal floating in front of him. Anatomically accurate Penaeus vannamei: orange hex F39A2B segmented body forming muscular humanoid torso with six-pack abs, curved shrimp tail with fan at the bottom (NO human legs), two long antennae with red yellow Ecuadorian ribbon tassels. Royal blue cape hex 0046AD billowing dramatically. Electric blue belt with white text 'ECUAMAN' and gold-bordered medallion with white E. Cyan trident hex 00D9FF in his left hand. Intense focused expression. Dark deep ocean trench setting with hydrothermal vents glowing in background. Dramatic lighting from below illuminating his face. Vertical 9:16 movie poster composition, Pixar Marvel quality"
   },
   {
     "id": "45_DAY30_community_trident",
-    "description": "Day 30: ECUAMAN celebration on beach (using master as reference)",
+    "description": "Day 30: ECUAMAN epic on beach (proven pattern)",
     "model": "gpt-image-1",
     "size": "1536x1024",
     "quality": "high",
-    "reference_image": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/00_DAY0_MASTER_HEROIC_VERTICAL_v2.png",
-    "prompt": "Place this exact same ECUAMAN shrimp character standing triumphantly at the center of an Ecuadorian beach at golden hour sunset. Cyan trident raised high above his head with both hands triumphantly glowing intensely. Maintain identical visual identity: orange F39A2B segmented body, curved shrimp tail with fan, royal blue cape billowing dramatically in ocean breeze, electric blue belt with white ECUAMAN text and gold E medallion, two antennae with red yellow tassels. Around him on the sand, dozens of small glowing cyan blue light orbs scattered like fireflies celebrating. Manabí coastline in background, mangroves silhouetted, golden sunset sky with warm orange and pink clouds, Pacific Ocean horizon. Epic inspirational community celebration. Horizontal 16:9 wide hero shot."
+    "prompt": "ECUAMAN superhero shrimp mascot of Ecuanutrition standing triumphantly on an Ecuadorian beach at golden hour sunset. Full body. Anatomically accurate Penaeus vannamei: orange hex F39A2B segmented body forming muscular humanoid torso with six-pack abs, curved shrimp tail with fan at the bottom (NO human legs), two long antennae with red yellow Ecuadorian ribbon tassels. Royal blue cape hex 0046AD billowing dramatically in ocean breeze. Cyan trident hex 00D9FF raised high above his head triumphantly with both hands, glowing intensely. Electric blue belt with white text 'ECUAMAN' and gold-bordered medallion with white E. Big proud heroic smile. Ecuadorian Pacific coast in background with mangroves silhouetted, golden warm sunset sky with orange and pink clouds, ocean waves on the sand around him. Cyan firefly-like light orbs floating around him in celebration. Wide cinematic horizontal 16:9 hero shot, Pixar 3D"
   }
 ]
