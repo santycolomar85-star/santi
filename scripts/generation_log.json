@@ -352,5 +352,83 @@
     "status": "error",
     "error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached.', 'type': 'billing_limit_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}",
     "timestamp": 1777682167.5599155
+  },
+  {
+    "id": "00_DAY0_MASTER_HEROIC_VERTICAL_v3",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/00_DAY0_MASTER_HEROIC_VERTICAL_v3.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777744357.1138158
+  },
+  {
+    "id": "04_TEASER_emerging",
+    "status": "error",
+    "error": "Error code: 400 - {'error': {'message': 'Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_db4bb295e49e4298b92b9d6ec69f9401.', 'type': 'image_generation_user_error', 'param': None, 'code': 'moderation_blocked",
+    "timestamp": 1777744421.2758894
+  },
+  {
+    "id": "32_DAY20_three_crystals",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/32_DAY20_three_crystals.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777744475.7187889
+  },
+  {
+    "id": "40_DAY22_ep2_poster",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/40_DAY22_ep2_poster.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777744544.7296882
+  },
+  {
+    "id": "45_DAY30_community_trident",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/45_DAY30_community_trident.png",
+    "size": "1536x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777744604.206842
+  },
+  {
+    "id": "04_TEASER_emerging",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/04_TEASER_emerging.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777744670.393379
+  },
+  {
+    "id": "00_DAY0_MASTER_HEROIC_VERTICAL_v4",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/00_DAY0_MASTER_HEROIC_VERTICAL_v4.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777745507.1177945
+  },
+  {
+    "id": "00_DAY0_MASTER_HEROIC_VERTICAL_v5_ICONIC",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/00_DAY0_MASTER_HEROIC_VERTICAL_v5_ICONIC.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777746088.782887
+  },
+  {
+    "id": "EMAIL_PFP_INVOICE_OFICIAL_v1",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/EMAIL_PFP_INVOICE_OFICIAL_v1.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777746278.4555314
   }
 ]
