@@ -74,17 +74,27 @@ Color real del vannamei vivo. Solo para piezas científicas, sostenibilidad o ed
 | Tintes azulados | **Azul Vannamei** | `#7FA8C4` |
 | Tintes rosados | **Rosa Acuícola** | `#F2C4C4` |
 
-### 2.3 Indumentaria heroica (constante en ambas versiones)
+### 2.3 Indumentaria heroica — ALINEADA A PALETA OFICIAL ECUANUTRITION
+
+> ⚠️ **ACTUALIZADO 2026-05** — La paleta anterior (Azul Pacífico `#0046AD`,
+> Azul Eléctrico `#1E88E5`, Cian Plasma `#00D9FF`, etc.) queda **OBSOLETA**.
+> Toda nueva pieza debe usar la paleta oficial de la marca madre Ecuanutrition.
+> Ver `00_BRAND_OFICIAL/MANUAL_OFICIAL_ECUANUTRITION.md` para el canon completo.
 
 | Pieza | Nombre | HEX | Uso |
 |---|---|---|---|
-| Capa | **Azul Pacífico** | `#0046AD` | Capa exterior |
-| Forro capa | **Azul Profundo** | `#002D70` | Interior de la capa |
-| Cinturón / trunks | **Azul Eléctrico** | `#1E88E5` | Traje base |
-| Texto cinturón | **Blanco Puro** | `#FFFFFF` | Tipografía "ECUAMAN" |
-| Borde emblema | **Oro Heroico** | `#F2C744` | Aro del medallón "E" |
-| Tridente energía | **Cian Plasma** | `#00D9FF` | Núcleo del tridente |
-| Halo tridente | **Aqua Glow** | `#7DF9FF` | Resplandor exterior |
+| Capa exterior | **Azul Marino Ecuanutrition** | `#295071` | Color primario marca · capa flotando hacia atrás |
+| Forro capa | **Azul Marino Profundo** | `#1A3450` | Tono más oscuro derivado del primario |
+| Cinturón / trunks | **Azul Marino Ecuanutrition** | `#295071` | Mismo primario, masa visual cohesiva |
+| Texto cinturón | **Blanco Puro** | `#FFFFFF` | Tipografía Figtree Regular Caps "ECUANUTRITION" |
+| Tagline cinturón | **Blanco Puro** | `#FFFFFF` | Figtree Caps letterspaced "AQUACULTURE PRODUCTS" |
+| Fondo emblema | **Blanco Puro** | `#FFFFFF` | Disco circular del medallón |
+| Aro emblema | **Azul Marino Ecuanutrition** | `#295071` | Ring del medallón |
+| Letra emblema | **Azul Marino Ecuanutrition** | `#295071` | "e" Cormorant Light en el centro |
+| Punto isotipo | **Celeste Fresco** | `#7CBFF6` | Pequeño dot arriba-derecha de la "e" (canon Ecuanutrition) |
+| Tridente núcleo | **Celeste Fresco** | `#7CBFF6` | Color primario 2 marca · plasma del tridente |
+| Tridente halo | **Blanco luminoso** | `#FFFFFF` con 50% opacidad | Resplandor exterior |
+| Acentos sutiles | **Rojo Coral** | `#FF6E6E` | Color secundario marca · líneas finas, partículas, "On-Air" |
 
 ### 2.4 Borlas de antenas — basado en el canon histórico de Ecuaman
 
