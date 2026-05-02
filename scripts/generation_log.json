@@ -784,5 +784,50 @@
     "quality": "high",
     "revised_prompt": "",
     "timestamp": 1777715152.4105382
+  },
+  {
+    "id": "TURNAROUND_5VIEWS_v1",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/TURNAROUND_5VIEWS_v1.png",
+    "size": "1536x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777717095.8567502
+  },
+  {
+    "id": "PODCAST_LOGO_ECUAMAN_HABLA",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/PODCAST_LOGO_ECUAMAN_HABLA.png",
+    "size": "1536x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777717132.89106
+  },
+  {
+    "id": "PODCAST_YOUTUBE_BANNER",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/PODCAST_YOUTUBE_BANNER.png",
+    "size": "1536x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777717191.9845572
+  },
+  {
+    "id": "PODCAST_THUMBNAIL_TEMPLATE",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/PODCAST_THUMBNAIL_TEMPLATE.png",
+    "size": "1536x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777717241.1980422
+  },
+  {
+    "id": "PODCAST_INTRO_BUMPER_FRAME",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/PODCAST_INTRO_BUMPER_FRAME.png",
+    "size": "1536x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777717307.6773238
   }
 ]
