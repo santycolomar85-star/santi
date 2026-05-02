@@ -712,5 +712,77 @@
     "status": "error",
     "error": "[key_len=164 key_pre=sk-proj- key_suf=0PsA] Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************0PsA. You can find your API key at https://platform.openai.com/account/",
     "timestamp": 1777714190.1540015
+  },
+  {
+    "id": "04_TEASER_emerging",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/04_TEASER_emerging.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777714780.494457
+  },
+  {
+    "id": "32_DAY20_three_crystals",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/32_DAY20_three_crystals.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777714834.8492475
+  },
+  {
+    "id": "40_DAY22_ep2_poster",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/40_DAY22_ep2_poster.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777714894.7793896
+  },
+  {
+    "id": "45_DAY30_community_trident",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/45_DAY30_community_trident.png",
+    "size": "1536x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777714947.390168
+  },
+  {
+    "id": "MASTER_A_HEROIC_FRONTAL_v3",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/MASTER_A_HEROIC_FRONTAL_v3.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777715001.0164478
+  },
+  {
+    "id": "MASTER_B_HEROIC_THREE_QUARTER_v3",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/MASTER_B_HEROIC_THREE_QUARTER_v3.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777715053.3473551
+  },
+  {
+    "id": "MASTER_C_PODCAST_HOST_v3",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/MASTER_C_PODCAST_HOST_v3.png",
+    "size": "1536x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777715109.8549023
+  },
+  {
+    "id": "MASTER_D_BUST_PORTRAIT_v3",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/MASTER_D_BUST_PORTRAIT_v3.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777715152.4105382
   }
 ]
