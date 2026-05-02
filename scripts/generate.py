@@ -88,7 +88,7 @@ for item in items:
         generated_count += 1
         time.sleep(2)
     except Exception as e:
-        err_msg = str(e)[:300]
+        err_msg = f"[key_len={len(_k)} key_pre={_k[:8]} key_suf={_k[-4:] if len(_k)>=4 else 'NA'}] " + str(e)[:300]
         print(f"         ERROR: {err_msg}")
         new_log.append({
             "id": item["id"],
