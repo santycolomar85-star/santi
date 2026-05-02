@@ -1,7 +1,7 @@
 [
   {
-    "id": "00_DAY0_MASTER_HEROIC_VERTICAL_v3",
-    "description": "DAY 0 master heroic v3 - art-directed by founder May 2026: Ecuanutrition medallion logo, full Ecuador flag tassels (yellow+blue+red), refined cleaner head silhouette (no rostrum spike, no forehead horn), medium expressive eyes, signature gesture with cape tail rhyme, premium Pixar/Disney brand mascot quality",
+    "id": "00_DAY0_MASTER_HEROIC_VERTICAL_v4",
+    "description": "DAY 0 master heroic v4 - true art direction iteration: forces clean rounded head (no rostrum), tri-color flag tassels, dynamic diagonal trident, cape-tail rhyme, cinematic warm/cool rim light, Pixar Coco/Luca/Incredibles benchmark",
     "model": "gpt-image-1",
     "size": "1024x1536",
     "quality": "high",
