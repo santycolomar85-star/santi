@@ -16,5 +16,329 @@
     "quality": "high",
     "revised_prompt": "",
     "timestamp": 1777679041.7963667
+  },
+  {
+    "id": "01_TEASER_silhouette",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/01_TEASER_silhouette.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777679279.1640131
+  },
+  {
+    "id": "02_TEASER_antennae",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/02_TEASER_antennae.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777679334.9814043
+  },
+  {
+    "id": "03_TEASER_trident",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/03_TEASER_trident.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777679368.4087162
+  },
+  {
+    "id": "04_TEASER_emerging",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/04_TEASER_emerging.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777679414.7100794
+  },
+  {
+    "id": "10_DAY1_buenos_dias",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/10_DAY1_buenos_dias.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777679455.8990083
+  },
+  {
+    "id": "11_DAY2_celebration",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/11_DAY2_celebration.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777679497.7113535
+  },
+  {
+    "id": "12_DAY4_lunes_motivacional",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/12_DAY4_lunes_motivacional.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777679537.6200233
+  },
+  {
+    "id": "13_DAY5_anatomia_lateral",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/13_DAY5_anatomia_lateral.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777679582.3276677
+  },
+  {
+    "id": "14_DAY7_humor_capa",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/14_DAY7_humor_capa.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777679633.5637615
+  },
+  {
+    "id": "20_DAY8_ep1_promo",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/20_DAY8_ep1_promo.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777679701.648866
+  },
+  {
+    "id": "21_DAY10_domingo_flotando",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/21_DAY10_domingo_flotando.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777679750.8804953
+  },
+  {
+    "id": "22_DAY11_lunes_warrior",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/22_DAY11_lunes_warrior.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777679816.7530227
+  },
+  {
+    "id": "23_DAY12_trazabilidad",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/23_DAY12_trazabilidad.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777679860.182848
+  },
+  {
+    "id": "24_DAY15_asamblea_zero",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/24_DAY15_asamblea_zero.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777679910.344233
+  },
+  {
+    "id": "30_DAY17_galapagos",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/30_DAY17_galapagos.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777679950.9713595
+  },
+  {
+    "id": "31_DAY19_manglar_planting",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/31_DAY19_manglar_planting.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777680003.8081
+  },
+  {
+    "id": "32_DAY20_three_crystals",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/32_DAY20_three_crystals.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777680069.3018289
+  },
+  {
+    "id": "33_DAY21_humor_flexing",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/33_DAY21_humor_flexing.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777680114.7656646
+  },
+  {
+    "id": "40_DAY22_ep2_poster",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/40_DAY22_ep2_poster.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777680175.824467
+  },
+  {
+    "id": "41_DAY24_domingo_pensativo",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/41_DAY24_domingo_pensativo.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777680219.7570827
+  },
+  {
+    "id": "42_DAY25_lunes_dawn_arms_out",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/42_DAY25_lunes_dawn_arms_out.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777680263.392613
+  },
+  {
+    "id": "43_DAY26_chef_ceviche",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/43_DAY26_chef_ceviche.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777680317.0334463
+  },
+  {
+    "id": "44_DAY27_iguana_galapagos",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/44_DAY27_iguana_galapagos.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777680360.9331546
+  },
+  {
+    "id": "45_DAY30_community_trident",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/45_DAY30_community_trident.png",
+    "size": "1536x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777680415.8592534
+  },
+  {
+    "id": "S01_sticker_hola",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S01_sticker_hola.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777680458.245319
+  },
+  {
+    "id": "S02_sticker_thumbsup",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S02_sticker_thumbsup.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777680500.3864496
+  },
+  {
+    "id": "S03_sticker_laughing",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S03_sticker_laughing.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777680541.7593787
+  },
+  {
+    "id": "S04_sticker_kiss_heart",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S04_sticker_kiss_heart.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777680575.8617055
+  },
+  {
+    "id": "S05_sticker_gracias",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S05_sticker_gracias.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777680614.6989465
+  },
+  {
+    "id": "S06_sticker_shocked",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S06_sticker_shocked.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777680650.5831287
+  },
+  {
+    "id": "S07_sticker_crying",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S07_sticker_crying.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777680685.4665258
+  },
+  {
+    "id": "S08_sticker_motivational",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S08_sticker_motivational.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777680725.7854943
+  },
+  {
+    "id": "S09_sticker_serious",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S09_sticker_serious.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777680763.4961057
+  },
+  {
+    "id": "S10_sticker_flag",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S10_sticker_flag.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777680802.5583296
+  },
+  {
+    "id": "S11_sticker_ceviche",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S11_sticker_ceviche.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777680841.480196
+  },
+  {
+    "id": "S12_sticker_goodbye",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S12_sticker_goodbye.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777680880.892675
   }
 ]
