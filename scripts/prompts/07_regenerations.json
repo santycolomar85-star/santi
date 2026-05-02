@@ -1,0 +1,34 @@
+[
+  {
+    "id": "04_TEASER_emerging",
+    "description": "Day -1: shrimp silhouette emerging at dawn (REGENERATED with shrimp-specific anatomy)",
+    "model": "gpt-image-1",
+    "size": "1024x1536",
+    "quality": "high",
+    "prompt": "Mysterious dark silhouette of a CRUSTACEAN SHRIMP character (NOT a human, NOT humanoid) emerging from deep Pacific Ocean water at dawn. The silhouette MUST clearly show: a curved shrimp body with segmented abdomen and fan tail at the bottom, two long thin antennae sticking up, a humanoid muscular torso integrated with the carapace, holding a glowing cyan trident in one hand. Royal blue cape billowing behind. Golden sunrise rays piercing through above. Cinematic underwater shot looking from below the surface. Dramatic backlit silhouette with bright dawn light behind. Gradient from dark blue water below to warm orange dawn colors above. Vertical poster composition. The character is a SHRIMP not a person. Reveal moment about to happen. Pixar 3D style"
+  },
+  {
+    "id": "32_DAY20_three_crystals",
+    "description": "Day 20: Episode 02 promo three crystals (REGENERATED with proper young shrimp Ecuaman)",
+    "model": "gpt-image-1",
+    "size": "1024x1536",
+    "quality": "high",
+    "prompt": "Cinematic dark underwater scene: a small SHRIMP CHARACTER (NOT a human, NOT a boy) named young ECUAMAN with orange hex F39A2B segmented exoskeleton body, curved shrimp tail with fan, six abdominal segments, two long antennae with red and yellow Ecuadorian ribbon tassels, big expressive cartoon eyes on eyestalks, serrated rostrum beak, muscular humanoid torso fused with the orange carapace. NO cape on this young version, NO trident yet. He floats facing three glowing crystals in deep dark Pacific Ocean trench: cyan crystal hex 00D9FF on left, golden crystal in middle, fiery red-orange crystal on right. Crystals' colored lights illuminate his face showing tough decision moment. Hydrothermal vents barely visible. Dramatic dark fantasy underwater atmosphere. The character is fully a Penaeus vannamei shrimp creature. Pixar/Marvel quality, vertical 9:16 composition, mysterious choice"
+  },
+  {
+    "id": "40_DAY22_ep2_poster",
+    "description": "Day 22: Episode 02 poster reaching for crystal (REGENERATED with proper shrimp anatomy)",
+    "model": "gpt-image-1",
+    "size": "1024x1536",
+    "quality": "high",
+    "prompt": "Dramatic vertical movie poster for animated short film. Featuring a young SHRIMP CHARACTER (NOT human, NOT a boy) called young ECUAMAN: orange hex F39A2B segmented crustacean exoskeleton body, curved shrimp tail with fan at the bottom, six abdominal segments visible, muscular humanoid torso fused with orange carapace, two long antennae with red and yellow Ecuadorian ribbon tassels at the tips, big cartoon eyes on eyestalks, serrated rostrum beak, NO cape on this young version. He is reaching with his crustacean hand toward a single chosen glowing cyan crystal floating in the dark depths of Pacific Ocean trench. Hydrothermal vents in background. Dramatic lighting from below illuminating his face revealing intense decision moment. Dark fantasy aesthetic. The character is fully a shrimp not a human. Pixar/Marvel cinematic poster quality. Title text space at bottom. Vertical 2:3"
+  },
+  {
+    "id": "45_DAY30_community_trident",
+    "description": "Day 30: epic community celebration (REGENERATED with simpler clear composition)",
+    "model": "gpt-image-1",
+    "size": "1536x1024",
+    "quality": "high",
+    "prompt": "Wide cinematic horizontal shot of ECUAMAN superhero standing triumphantly at the center of an Ecuadorian beach at golden hour sunset. He is the hero shrimp character with anatomically accurate Penaeus vannamei body: orange hex F39A2B segmented body, curved shrimp tail with fan, six abdominal segments, two antennae with red yellow Ecuadorian ribbon tassels. Royal blue cape hex 0046AD billowing dramatically in the ocean breeze. Cyan trident hex 00D9FF raised high above his head with both hands triumphantly. Electric blue belt with white 'ECUAMAN' text and gold-bordered E medallion. Around him, hundreds of glowing cyan blue avatar light dots scattered on the sand forming the shape of a large trident pattern (visible from this angle). Manabí coastline in background, mangroves silhouetted on the horizon, golden sunset sky with warm orange and pink clouds. Pacific Ocean horizon visible. Epic inspirational community celebration atmosphere. Pixar 3D character with photorealistic landscape backdrop, horizontal 16:9 composition"
+  }
+]
