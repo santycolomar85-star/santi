@@ -11,6 +11,8 @@ OUTPUT_DIR = ROOT / "ECUANUTRITION" / "MARKETING" / "ECUAMAN" / "07_ASSETS_OFICI
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 LOG_FILE = ROOT / "scripts" / "generation_log.json"
 
+_k = os.environ.get("OPENAI_API_KEY", "")
+print(f"[DEBUG] OPENAI_API_KEY length={len(_k)} prefix={_k[:8]} suffix={_k[-4:] if len(_k) >= 4 else 'N/A'}")
 client = OpenAI()
 
 # Load manifests
