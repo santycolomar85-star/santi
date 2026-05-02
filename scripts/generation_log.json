@@ -304,5 +304,41 @@
     "quality": "high",
     "revised_prompt": "",
     "timestamp": 1777680880.892675
+  },
+  {
+    "id": "04_TEASER_emerging",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/04_TEASER_emerging.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777681528.299366
+  },
+  {
+    "id": "32_DAY20_three_crystals",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/32_DAY20_three_crystals.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777681588.9878764
+  },
+  {
+    "id": "40_DAY22_ep2_poster",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/40_DAY22_ep2_poster.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777681650.4380245
+  },
+  {
+    "id": "45_DAY30_community_trident",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/45_DAY30_community_trident.png",
+    "size": "1536x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777681701.882225
   }
 ]
