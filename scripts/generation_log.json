@@ -829,5 +829,131 @@
     "quality": "high",
     "revised_prompt": "",
     "timestamp": 1777717307.6773238
+  },
+  {
+    "id": "PODCAST_LOGO_ECUAMAN_HABLA_v2",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/PODCAST_LOGO_ECUAMAN_HABLA_v2.png",
+    "size": "1536x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777717702.7093794
+  },
+  {
+    "id": "PODCAST_YOUTUBE_BANNER_v2",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/PODCAST_YOUTUBE_BANNER_v2.png",
+    "size": "1536x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777717763.5746157
+  },
+  {
+    "id": "S01_sticker_hola_v2",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S01_sticker_hola_v2.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777717806.0276034
+  },
+  {
+    "id": "S02_sticker_thumbsup_v2",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S02_sticker_thumbsup_v2.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777717843.4310055
+  },
+  {
+    "id": "S03_sticker_laughing_v2",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S03_sticker_laughing_v2.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777717885.7802627
+  },
+  {
+    "id": "S04_sticker_kiss_heart_v2",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S04_sticker_kiss_heart_v2.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777717929.2022648
+  },
+  {
+    "id": "S05_sticker_gracias_v2",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S05_sticker_gracias_v2.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777717972.6221013
+  },
+  {
+    "id": "S06_sticker_shocked_v2",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S06_sticker_shocked_v2.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777718014.5564444
+  },
+  {
+    "id": "S07_sticker_crying_v2",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S07_sticker_crying_v2.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777718055.7657
+  },
+  {
+    "id": "S08_sticker_motivational_v2",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S08_sticker_motivational_v2.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777718097.0617642
+  },
+  {
+    "id": "S09_sticker_serious_v2",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S09_sticker_serious_v2.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777718136.8149736
+  },
+  {
+    "id": "S10_sticker_flag_v2",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S10_sticker_flag_v2.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777718176.9421644
+  },
+  {
+    "id": "S11_sticker_ceviche_v2",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S11_sticker_ceviche_v2.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777718214.3741817
+  },
+  {
+    "id": "S12_sticker_goodbye_v2",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/S12_sticker_goodbye_v2.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777718260.8625524
   }
 ]
