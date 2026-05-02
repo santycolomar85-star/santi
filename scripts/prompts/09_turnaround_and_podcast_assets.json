@@ -1,0 +1,46 @@
+[
+  {
+    "id": "TURNAROUND_5VIEWS_v1",
+    "description": "Turnaround sheet 5 vistas del Master A para futura referencia consistente",
+    "model": "gpt-image-1",
+    "size": "1536x1024",
+    "quality": "high",
+    "reference_image": "ECUANUTRITION/MARKETING/00_BRAND_OFICIAL/MASTER_CANONICAL/locked/ECUAMAN_MASTER_HERO_ACTION.png",
+    "prompt": "Character turnaround sheet of ECUAMAN. Same exact character as the reference image. Show 5 view angles in a single horizontal strip on a clean light Celeste Fresco hex 7CBFF6 background with subtle grid lines: from left to right (1) FRONT view facing camera, (2) THREE-QUARTER LEFT view turned 45 degrees, (3) FULL LEFT SIDE PROFILE view, (4) BACK view showing the cape from behind, (5) THREE-QUARTER RIGHT view. All five poses must keep the IDENTICAL costume colors and proportions: Azul Marino hex 295071 cape, Azul Marino belt with white ECUAMAN text and the lowercase 'e' Cormorant medallion with Celeste Fresco hex 7CBFF6 dot, orange F39A2B body, antennae with red CE1126 + yellow FFDD00 ribbon tassels. Clean studio lighting, no shadows on background. Heroic standing pose with feet (tail) anchored, arms relaxed at sides, confident smile. Professional character sheet style for animation/3D modeling reference."
+  },
+  {
+    "id": "PODCAST_LOGO_ECUAMAN_HABLA",
+    "description": "Logo del show 'ECUAMAN HABLA' para canal YouTube",
+    "model": "gpt-image-1",
+    "size": "1536x1024",
+    "quality": "high",
+    "prompt": "Logo design for an animated podcast show called 'ECUAMAN HABLA'. Centered horizontal layout on a deep Azul Marino hex 295071 background. Top: bold large title 'ECUAMAN HABLA' in white Figtree Bold sans-serif capital letters with strong letter spacing. Center: a stylized cartoon silhouette icon of a microphone with Celeste Fresco hex 7CBFF6 sound waves radiating out, the microphone integrated subtly with a small rostrum (shrimp pico) on top. Below the title: a thin Coral hex FF6E6E underline accent. Bottom right corner: small Ecuanutrition lowercase 'e' isotype in Celeste Fresco. Bottom: tiny letter-spaced caps 'A PODCAST BY ECUANUTRITION' in white Figtree Light. Premium broadcast graphic style, clean modern, suitable for YouTube channel header and podcast cover. NO ECUAMAN character drawn - this is a logo/wordmark, not a character illustration."
+  },
+  {
+    "id": "PODCAST_YOUTUBE_BANNER",
+    "description": "Banner del canal YouTube ECUAMAN HABLA - 2560x1440 cinematic",
+    "model": "gpt-image-1",
+    "size": "1536x1024",
+    "quality": "high",
+    "reference_image": "ECUANUTRITION/MARKETING/00_BRAND_OFICIAL/MASTER_CANONICAL/locked/ECUAMAN_MASTER_PODCAST.png",
+    "prompt": "Cinematic YouTube channel banner. Same exact ECUAMAN character as the reference image, seated at podcast desk with microphone, but compose horizontally for a wide 16:9 banner. Left side (60%): ECUAMAN at the podcast desk with ON AIR sign visible. Right side (40%): clean Azul Marino hex 295071 panel with the show title in large white Figtree Bold caps 'ECUAMAN HABLA' stacked, below it Coral hex FF6E6E thin line, below tagline 'EL PODCAST DEL OCEANO ECUATORIANO' in smaller white Figtree Light caps, and at the bottom a small lowercase 'e' Ecuanutrition isotype + 'A PODCAST BY ECUANUTRITION'. Subtle Celeste Fresco hex 7CBFF6 ambient glow around the title. Premium broadcast feel, professional channel branding."
+  },
+  {
+    "id": "PODCAST_THUMBNAIL_TEMPLATE",
+    "description": "Plantilla thumbnail YouTube - layout fijo cara izq + titulo der",
+    "model": "gpt-image-1",
+    "size": "1536x1024",
+    "quality": "high",
+    "reference_image": "ECUANUTRITION/MARKETING/00_BRAND_OFICIAL/MASTER_CANONICAL/locked/ECUAMAN_MASTER_AVATAR.png",
+    "prompt": "YouTube thumbnail template, 16:9 horizontal. Same ECUAMAN bust portrait character as the reference image on the LEFT side filling 40% of the frame, looking surprised/excited with eyes wide and mouth open in animated expression, three small Coral hex FF6E6E exclamation marks floating above his head. RIGHT side 60% has a deep Azul Marino hex 295071 panel with placeholder text 'TITULO DEL EPISODIO' in massive white Figtree Black caps wrapping into 3 lines (center-left aligned). Below the title a thin Coral hex FF6E6E underline. Top right corner: small Celeste Fresco hex 7CBFF6 episode number badge 'EP 01'. Bottom right: tiny 'ECUAMAN HABLA' wordmark in white Figtree Bold caps. The whole composition has high contrast, vibrant, click-bait style for YouTube but tasteful, premium, no kitsch. Sharp, vibrant, click-worthy."
+  },
+  {
+    "id": "PODCAST_INTRO_BUMPER_FRAME",
+    "description": "Frame clave del bumper de intro 10s del podcast",
+    "model": "gpt-image-1",
+    "size": "1536x1024",
+    "quality": "high",
+    "reference_image": "ECUANUTRITION/MARKETING/00_BRAND_OFICIAL/MASTER_CANONICAL/locked/ECUAMAN_MASTER_HERO_ACTION.png",
+    "prompt": "Cinematic key frame for the intro bumper of an animated podcast. ECUAMAN (same character as the reference image) emerging from deep underwater toward the viewer, mid-action, his cape Azul Marino hex 295071 trailing behind dramatically, trident with Celeste Fresco hex 7CBFF6 plasma glow held high pointing upward. Large Celeste Fresco light streak crossing from lower-left to upper-right behind him. Above his head, the show title 'ECUAMAN HABLA' is appearing in large white Figtree Bold caps with a subtle glow. Coral hex FF6E6E thin underline below the title. Bottom-left corner: small white text 'EP 01' in Figtree caps. Cinematic deep underwater background, bioluminescent particles, sun rays from upper-left. Premium broadcast intro feel. Sharp focus, vibrant, hero-shot framing."
+  }
+]
