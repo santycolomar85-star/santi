@@ -48,12 +48,20 @@ ECUANUTRITION/MARKETING/ECUAMAN/
 │   │   ├── 04_KIT_12_STICKERS.md          12 stickers WhatsApp/Telegram con prompts
 │   │   ├── 05_PRESS_KIT.md                Press kit ES + EN completo
 │   │   └── 06_BANCO_DE_VOZ.md             100+ frases firma + plantillas + respuestas
-│   └── FASE_3_LEGAL/                     PROTECCIÓN INTEGRAL (patente/registro)
-│       ├── 00_INDICE_PROTECCION_LEGAL.md  Estrategia completa
-│       ├── 01_BRIEF_REGISTRO_MARCA.md     Para abogado: clases, descripciones, lista
-│       ├── 02_DECLARACION_AUTORIA.md      Plantilla notarial
-│       ├── 03_PROTECCION_MECANICAS.md     Cómo proteger lo no-patentable
-│       └── 04_FICHA_TECNICA_PARA_ABOGADO.md Carpeta lista para primera reunión legal
+│   ├── FASE_3_LEGAL/                     PROTECCIÓN INTEGRAL (patente/registro)
+│   │   ├── 00_INDICE_PROTECCION_LEGAL.md  Estrategia completa
+│   │   ├── 01_BRIEF_REGISTRO_MARCA.md     Para abogado: clases, descripciones, lista
+│   │   ├── 02_DECLARACION_AUTORIA.md      Plantilla notarial
+│   │   ├── 03_PROTECCION_MECANICAS.md     Cómo proteger lo no-patentable
+│   │   └── 04_FICHA_TECNICA_PARA_ABOGADO.md Carpeta lista para primera reunión legal
+│   │
+│   └── FASE_4_PRODUCTO_DIGITAL/          PLATAFORMA "LA MAREA DE LOS GUARDIANES"
+│       ├── 00_INDICE_PRODUCTO_DIGITAL.md     Flujo end-to-end + presupuesto build
+│       ├── 01_ESPECIFICACIONES_PLATAFORMA.md Backend, DB, APIs, infra, seguridad
+│       ├── 02_MICROSITE_COPY_UX.md           Sitemap, copy listo, wireframes
+│       ├── 03_SISTEMA_QR_PASAPORTE.md        QR único, planta empaque, pasaporte físico
+│       ├── 04_GENERADOR_AVATARES_LORA.md     Pipeline ML, dataset, inferencia
+│       └── 05_APP_MOVIL_ESPECIFICACION.md    Spec funcional + técnica iOS/Android
 │
 └── COMO_SUBIR_ARCHIVOS.md           Guía de upload al repo (5 opciones)
 ```

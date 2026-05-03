@@ -39,12 +39,13 @@ FASE 3  ⏳  PROTECCIÓN LEGAL Y DIGITAL
             ├─ Términos legales del Pasaporte del Guardián
             └─ Contratos de licencia para uso externo
 
-FASE 4  ⏳  PRODUCTO DIGITAL (LA MAREA DE LOS GUARDIANES)
-            ├─ Especificaciones técnicas plataforma
-            ├─ Microsite ecuaman.ecuanutrition.com (copy + UX)
-            ├─ Sistema de QR + Pasaporte
-            ├─ Generador de avatares únicos (LoRA Ecuaman)
-            └─ App móvil (especificación)
+FASE 4  ✅  PRODUCTO DIGITAL (LA MAREA DE LOS GUARDIANES)
+            ├─ Índice maestro + flujo end-to-end + presupuesto build
+            ├─ Especificaciones técnicas plataforma (DB, APIs, infra, seguridad)
+            ├─ Microsite ecuaman.ecuanutrition.com (copy listo + UX + sitemap)
+            ├─ Sistema QR + Pasaporte físico (planta, logística, fallback)
+            ├─ Generador de avatares únicos (LoRA Ecuaman, dataset, inferencia)
+            └─ App móvil iOS + Android (spec funcional + técnica)
 
 FASE 5  ⏳  PRIMER MES DE CONTENIDO
             ├─ 30 posts día-a-día (copy + visual + prompt + caption)
@@ -102,3 +103,18 @@ Para cerrar Fase 1 con calidad mundial:
 - [ ] Aprobación escrita del Director de Marca
 
 > *Solo cuando esto esté completo, pasamos a Fase 2.*
+
+---
+
+## 📊 ESTADO DE LAS SESIONES DE TRABAJO (continuidad)
+
+| Sesión | Fases trabajadas | Estado | Commits clave |
+|---|---|---|---|
+| Sesión 1 | Sistema completo de marca v1.0 (FASE 0) | ✅ Cerrada | `7a037da` |
+| Sesión 2 | Launch Kit FASE 1 (Visual) + FASE 3 (Legal) | ✅ Cerrada | `5e3d8d6` |
+| Sesión 3 | FASE 2 (Voz y Narrativa) | ✅ Cerrada | `b42b4fe` |
+| Sesión 4 | FASE 5 (Primer Mes Contenido) + Pipeline imágenes + Publicación | ✅ Cerrada | `431c69d`, `a52b884` |
+| Sesión 5 (actual) | **FASE 4 — Producto Digital (La Marea)** | ✅ Cerrada en esta sesión | rama `claude/ecuaman-sessions-continuation-O3QGo` |
+
+> Las **6 fases del roadmap quedan ahora completamente documentadas**, listas
+> para entrar en modo ejecución (build técnico + producción de contenido).
