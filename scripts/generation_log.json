@@ -484,5 +484,32 @@
     "quality": "high",
     "revised_prompt": "",
     "timestamp": 1777804997.0292904
+  },
+  {
+    "id": "EMAIL_PFP_INVOICE_OFICIAL_v6_DUO_PEN_AND_SEAL",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/EMAIL_PFP_INVOICE_OFICIAL_v6_DUO_PEN_AND_SEAL.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777806063.9414034
+  },
+  {
+    "id": "EMAIL_PFP_INVOICE_OFICIAL_v7_LAUREL_CREST",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/EMAIL_PFP_INVOICE_OFICIAL_v7_LAUREL_CREST.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777806104.4291189
+  },
+  {
+    "id": "EMAIL_PFP_INVOICE_OFICIAL_v8_EMBOSSED_COIN",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/EMAIL_PFP_INVOICE_OFICIAL_v8_EMBOSSED_COIN.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777806149.7069833
   }
 ]
