@@ -74,7 +74,7 @@ Costo previsto: **una sola imagen 1024×1536 HD ≈ $0.17**.
 
 ---
 
-## ▶️ LO QUE VA A PASAR AUTOMÁTICAMENTE TRAS ESTE PUSH
+## ▶️ LO QUE DEBERÍA PASAR AUTOMÁTICAMENTE TRAS ESTE PUSH
 
 1. GitHub Actions detecta el cambio en `scripts/prompts/**` +
    `.github/workflows/generate-ecuaman.yml`
@@ -90,6 +90,23 @@ Tras eso, queda lista para validar contra el checklist 24 puntos
 (`03_REFERENCIAS/CHECKLIST_VALIDACION.md`). Si pasa, **queda como canon
 definitivo de avatar de lanzamiento** y reemplaza al actual `v5_ICONIC`
 en perfiles de redes, video de lanzamiento y press kit.
+
+### ⚠️ Si en 10 min no aparece el auto-commit en la rama
+
+Esperé el commit `Auto-generated Ecuaman images [skip ci]` durante 10
+minutos y no apareció. Posibles causas (revisar en este orden):
+
+1. **GitHub → Actions** → ¿está deshabilitado a nivel repo? Activarlo.
+2. **GitHub → Settings → Secrets and variables → Actions** → confirmar
+   que `OPENAI_API_KEY` existe y no expiró.
+3. **GitHub → Actions → Generate Ecuaman Images** → revisar la última
+   ejecución; si falló, el log muestra la causa exacta (billing, key
+   inválida, rate limit).
+4. **Disparar manualmente**: Actions → Generate Ecuaman Images →
+   Run workflow → branch `claude/continue-ecuaman-sessions-aRTBU`.
+
+El prompt v6 ya está commiteado y listo. Solo falta que el job
+de Actions corra una vez con éxito.
 
 Si el resultado no convence, alternativas baratas (1 imagen cada una):
 - Cambiar `reference_image` a `Ecuanutrition_Isotipo_blanco.png` (mejor
