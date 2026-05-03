@@ -1,0 +1,59 @@
+name: Meshy Image to 3D
+
+on:
+  workflow_dispatch:
+    inputs:
+      ai_model:
+        description: 'Meshy AI model'
+        required: false
+        default: 'meshy-5'
+        type: choice
+        options:
+          - meshy-5
+          - meshy-6
+      polycount:
+        description: 'Target polycount'
+        required: false
+        default: '50000'
+  push:
+    paths:
+      - 'scripts/meshy_image_to_3d.py'
+      - '.github/workflows/meshy-3d.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  meshy-3d:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install --quiet requests
+
+      - name: Generate 3D model with Meshy
+        env:
+          MESHY_API_KEY: ${{ secrets.MESHY_API_KEY }}
+          GITHUB_REF_NAME: ${{ github.ref_name }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          MESHY_AI_MODEL: ${{ github.event.inputs.ai_model || 'meshy-5' }}
+          MESHY_POLYCOUNT: ${{ github.event.inputs.polycount || '50000' }}
+        run: python scripts/meshy_image_to_3d.py
+
+      - name: Commit results
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/3d_models/ || true
+          if git diff --cached --quiet; then
+            echo "No new 3D model files"
+          else
+            git commit -m "Meshy 3D: ecuaman_v9_meshy generado [skip ci]"
+            git push
+          fi
