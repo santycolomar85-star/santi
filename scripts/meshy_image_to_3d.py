@@ -7,6 +7,8 @@ en Meshy, hace polling hasta SUCCEEDED, descarga el .glb + texturas y
 los guarda en 07_ASSETS_OFICIALES/3d_models/v9_meshy/.
 
 Usa la variable de entorno MESHY_API_KEY.
+
+Run #1: 2026-05-03 - primera generación con MESHY_API_KEY configurada.
 """
 import json
 import os
