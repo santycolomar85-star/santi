@@ -116,8 +116,8 @@ que solo se cobra por prompts NUEVOS.
 
 > Sesiones 1–4 dejaron el sistema de marca completo y las 38 imágenes
 > canónicas en repo. Sesión 5 conecta el isotipo oficial PNG (recién
-> subido por el fundador) al pipeline para que la próxima master sea
-> brand-true. El gatillo sigue manual: nada se ejecuta hasta que tú lo digas.
+> subido por el fundador) al pipeline y dispara la generación del
+> master v6 brand-true automáticamente al pushear. Coste: ~$0.17.
 
 ---
 
