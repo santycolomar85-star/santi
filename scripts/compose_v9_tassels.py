@@ -60,20 +60,35 @@ def draw_tassel(canvas: Image.Image, anchor_x: int, anchor_y: int,
         )
 
 
-def composite(source_path: Path, output_path: Path,
-              left: tuple[int, int], right: tuple[int, int]) -> None:
-    base = Image.open(source_path).convert("RGBA")
-    overlay = Image.new("RGBA", base.size, (0, 0, 0, 0))
+def erase_old_tassel(canvas: Image.Image, x1: int, y1: int, x2: int, y2: int,
+                     bg_color: tuple = (0, 46, 74, 255)) -> None:
+    """Paint over an old tassel area with the deep ocean background color."""
+    draw = ImageDraw.Draw(canvas)
+    draw.rectangle((x1, y1, x2, y2), fill=bg_color)
 
-    draw_tassel(overlay, left[0], left[1], mirror=False)
-    draw_tassel(overlay, right[0], right[1], mirror=True)
+
+def composite(source_path: Path, output_path: Path,
+              left: tuple[int, int], right: tuple[int, int],
+              ribbon_w: int = 38, ribbon_h: int = 110,
+              erase_box: tuple[int, int, int, int] | None = None) -> None:
+    base = Image.open(source_path).convert("RGBA")
+
+    if erase_box is not None:
+        erase_old_tassel(base, *erase_box)
+
+    overlay = Image.new("RGBA", base.size, (0, 0, 0, 0))
+    draw_tassel(overlay, left[0], left[1], ribbon_w=ribbon_w, ribbon_h=ribbon_h, mirror=False)
+    draw_tassel(overlay, right[0], right[1], ribbon_w=ribbon_w, ribbon_h=ribbon_h, mirror=True)
 
     composited = Image.alpha_composite(base, overlay)
     composited.convert("RGB").save(output_path, "PNG", optimize=True)
     print(f"v9 tassels saved: {output_path.name} "
           f"({output_path.stat().st_size // 1024} KB)")
+    print(f"  ribbon size: {ribbon_w}x{ribbon_h}")
     print(f"  left tassel anchor:  {left}")
     print(f"  right tassel anchor: {right}")
+    if erase_box:
+        print(f"  erased area: {erase_box}")
 
 
 if __name__ == "__main__":
@@ -81,9 +96,16 @@ if __name__ == "__main__":
     ly = int(sys.argv[2]) if len(sys.argv) > 2 else 270
     rx = int(sys.argv[3]) if len(sys.argv) > 3 else 460
     ry = int(sys.argv[4]) if len(sys.argv) > 4 else 90
+    rw = int(sys.argv[5]) if len(sys.argv) > 5 else 38
+    rh = int(sys.argv[6]) if len(sys.argv) > 6 else 110
+
+    erase = None
+    if len(sys.argv) >= 11:
+        erase = (int(sys.argv[7]), int(sys.argv[8]),
+                 int(sys.argv[9]), int(sys.argv[10]))
 
     if not SOURCE.exists():
         print(f"ERROR: source not found {SOURCE}")
         sys.exit(1)
 
-    composite(SOURCE, OUTPUT, (lx, ly), (rx, ry))
+    composite(SOURCE, OUTPUT, (lx, ly), (rx, ry), rw, rh, erase)
