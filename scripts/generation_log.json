@@ -511,5 +511,32 @@
     "quality": "high",
     "revised_prompt": "",
     "timestamp": 1777806149.7069833
+  },
+  {
+    "id": "EMAIL_PFP_INVOICE_OFICIAL_v9_CORPORATE_INVOICE",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/EMAIL_PFP_INVOICE_OFICIAL_v9_CORPORATE_INVOICE.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777807109.6623166
+  },
+  {
+    "id": "EMAIL_PFP_INVOICE_OFICIAL_v10_ENVELOPE_INVOICE",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/EMAIL_PFP_INVOICE_OFICIAL_v10_ENVELOPE_INVOICE.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777807146.3708231
+  },
+  {
+    "id": "EMAIL_PFP_INVOICE_OFICIAL_v11_RECEIPT_SCROLL_3D",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/EMAIL_PFP_INVOICE_OFICIAL_v11_RECEIPT_SCROLL_3D.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777807183.860668
   }
 ]
