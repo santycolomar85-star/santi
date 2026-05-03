@@ -1,0 +1,42 @@
+name: Rodin Image to 3D
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/rodin_image_to_3d.py'
+      - '.github/workflows/rodin-3d.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  rodin-3d:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install --quiet requests
+
+      - name: Generate 3D model with Rodin Gen-2
+        env:
+          RODIN_API_KEY: ${{ secrets.RODIN_API_KEY }}
+        run: python scripts/rodin_image_to_3d.py
+
+      - name: Commit results
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/3d_models/ || true
+          if git diff --cached --quiet; then
+            echo "No new 3D model files"
+          else
+            git commit -m "Rodin 3D: ecuaman_v9_rodin generado [skip ci]"
+            git push
+          fi
