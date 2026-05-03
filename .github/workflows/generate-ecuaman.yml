@@ -1,6 +1,11 @@
 name: Generate Ecuaman Images
 
 on:
+  push:
+    paths:
+      - 'scripts/prompts/**'
+      - 'scripts/generate.py'
+      - '.github/workflows/generate-ecuaman.yml'
   workflow_dispatch:
 
 permissions:

@@ -55,8 +55,15 @@ ECUANUTRITION/MARKETING/ECUAMAN/
 │       ├── 03_PROTECCION_MECANICAS.md     Cómo proteger lo no-patentable
 │       └── 04_FICHA_TECNICA_PARA_ABOGADO.md Carpeta lista para primera reunión legal
 │
+├── 🆕 SESION_5_CONTINUACION.md     Estado tras subida del isotipo oficial + master v6
 └── COMO_SUBIR_ARCHIVOS.md           Guía de upload al repo (5 opciones)
 ```
+
+**Activos oficiales** (subidos por el fundador, sesión 5):
+- `03_REFERENCIAS/Ecuanutrition_Isotipo_Azul.png` ← canon visual referenciado por master v6
+- `03_REFERENCIAS/Ecuanutrition_Isotipo_blanco.png`
+- `03_REFERENCIAS/Ecuanutrition_Logo_ fAzul.png` / `Ecuanutrition_Logo_ fBlanco1.png`
+- `03_REFERENCIAS/Ecuanutrition_Outlook_{64,128,256}.png`
 
 ---
 
