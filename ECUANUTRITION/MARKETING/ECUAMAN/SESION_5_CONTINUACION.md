@@ -139,3 +139,33 @@ que solo se cobra por prompts NUEVOS.
 ---
 
 *Sesión 5 — 3 Mayo 2026 · Branch `claude/continue-ecuaman-sessions-aRTBU`*
+
+---
+
+## ✅ DECISIÓN FINAL DEL FUNDADOR — Avatar facturación
+
+Tras iterar 11 versiones, el fundador eligió **v10 ENVELOPE_INVOICE**:
+
+- Sobre navy abierto + factura blanca emergiendo con el logo Ecuanutrition
+  impreso en el header navy + título "FACTURA · INVOICE" + filas de items
+  en gris claro
+- Paleta sin oro: navy `#002D70` / electric blue `#1E88E5` / cyan logo
+  `#7AAFD3` / papel ivory `#F8F4ED`
+- Estética 3D corporativa premium
+
+**Archivo canónico oficial**:
+`07_ASSETS_OFICIALES/EMAIL_PFP_INVOICE_OFICIAL_FINAL.png`
+
+(Copia de `auto_generated/EMAIL_PFP_INVOICE_OFICIAL_v10_ENVELOPE_INVOICE.png`,
+elevada a la raíz de `07_ASSETS_OFICIALES/` para fácil acceso.)
+
+**Uso**: subir como foto de perfil de `invoce@ecuanutrition.com` en
+Outlook / Gmail / Workspace. Los 64×64 / 128×128 / 256×256 ya existentes
+en `03_REFERENCIAS/Ecuanutrition_Outlook_*.png` se mantienen como avatar
+genérico de la cuenta corporativa principal.
+
+**Variantes descartadas** (quedan en `auto_generated/` por si vuelves a
+necesitarlas o quieres usarlas en contextos distintos): v1 (errata
+"FACTURACIOION"), v2 PEN, v3 WAX_SEAL, v4 LEDGER_BOOK, v5 BALANCE_SCALE,
+v6 DUO, v7 LAUREL_CREST, v8 EMBOSSED_COIN, v9 CORPORATE_INVOICE, v11
+RECEIPT_SCROLL_3D.
