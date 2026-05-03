@@ -21,7 +21,7 @@
 
 ## B · IDENTIDAD ECUATORIANA (3 puntos)
 
-- [ ] **B1.** Borlas de antenas en orden EXACTO: amarillo arriba, azul medio, **rojo en la punta**
+- [ ] **B1.** Borlas de antenas TRICOLOR ECUADOR en orden EXACTO: amarillo arriba, azul medio, **rojo en la punta**, presentes en **AMBAS antenas**, con nudo marrón cuero en la base
 - [ ] **B2.** Al menos un elemento patriótico visible (borlas, bandera de fondo, o medallón)
 - [ ] **B3.** Sin símbolos políticos partidistas
 

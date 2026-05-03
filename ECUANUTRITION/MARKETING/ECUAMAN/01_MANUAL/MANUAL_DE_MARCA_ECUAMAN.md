@@ -86,34 +86,27 @@ Color real del vannamei vivo. Solo para piezas científicas, sostenibilidad o ed
 | Tridente energía | **Cian Plasma** | `#00D9FF` | Núcleo del tridente |
 | Halo tridente | **Aqua Glow** | `#7DF9FF` | Resplandor exterior |
 
-### 2.4 Borlas de antenas — basado en el canon histórico de Ecuaman
+### 2.4 Borlas de antenas — TRICOLOR ECUADOR (canon oficial v2.1)
 
-Tras revisar las 13 referencias históricas (5 originales + 8 generadas en Drive),
-existen **dos estilos válidos** de borla. La versión **clásica** es la canónica.
+> **Decisión Director de Marca, Mayo 2026:** la borla canónica única son las
+> 3 cintas de la bandera de Ecuador, en orden **AMARILLO arriba, AZUL en
+> medio, ROJO en la punta**, presentes en **AMBAS antenas**. La versión
+> "clásica de 2 cintas" queda derogada.
 
-#### A) Versión CLÁSICA (canon — usar por defecto, 90% de piezas)
+#### Versión TRICOLOR ECUADOR (única canónica — 100% de las piezas)
 
-Estilo "coleta" o "pony-tail" con dos cintas planas que ondean:
-
-| Posición | Color | HEX | Notas |
+| Posición | Color | HEX | Largo relativo |
 |---|---|---|---|
-| Cinta exterior | **Rojo Ecuador** | `#CE1126` | Más larga, 12-15% del cuerpo |
-| Cinta interior | **Amarillo Ecuador** | `#FFDD00` | Más corta, 10% del cuerpo |
-| Atadura | **Marrón cuero** | `#5C3A1E` | Pequeño nudo en la base |
+| Cinta superior | **Amarillo Ecuador** | `#FFDD00` | 12-15% del cuerpo |
+| Cinta media | **Azul Ecuador** | `#003893` | 12-15% del cuerpo |
+| Cinta inferior (punta) | **Rojo Ecuador** | `#CE1126` | 12-15% del cuerpo |
+| Atadura | **Marrón cuero** | `#5C3A1E` | nudo pequeño en la base |
 
-> Inspirado en cintas patrias y plumones de ceremonia ancestral. Las dos antenas
-> emergen muy próximas, casi convergiendo en el mismo punto, con la borla
-> compartida.
-
-#### B) Versión TRICOLOR FORMAL (uso ceremonial / fechas patrias)
-
-Solo para fechas patrias (10 Agosto, 24 Mayo, 9 Octubre) o piezas institucionales:
-
-| Posición | Color | HEX |
-|---|---|---|
-| Superior | **Amarillo Ecuador** | `#FFDD00` |
-| Medio | **Azul Ecuador** | `#003893` |
-| Inferior (punta) | **Rojo Ecuador** | `#CE1126` |
+> **Reglas críticas:**
+> - Las 3 cintas en orden EXACTO amarillo → azul → rojo desde la base hacia la punta.
+> - **Ambas antenas** llevan tassel idéntico (no solo una).
+> - Las 3 cintas son cintas planas tipo bandera, no cuerdas ni plumas.
+> - El nudo marrón siempre visible en la base donde la cinta se ata a la antena.
 
 ### 2.5 Fondo oceánico (ambiente)
 
