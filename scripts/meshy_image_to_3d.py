@@ -22,9 +22,9 @@ ROOT = Path(__file__).resolve().parent.parent
 SOURCE_IMAGE = (
     ROOT
     / "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated"
-    / "00_DAY0_MASTER_HEROIC_THREEQUARTER_v8_FINAL.png"
+    / "00_DAY0_MASTER_HEROIC_THREEQUARTER_v8_bgwhite.png"
 )
-OUTPUT_DIR = ROOT / "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/3d_models/v9_meshy"
+OUTPUT_DIR = ROOT / "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/3d_models/v10_meshy"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 API_BASE = "https://api.meshy.ai/openapi"
@@ -110,7 +110,7 @@ def download_artifacts(task: dict) -> None:
     for fmt, url in model_urls.items():
         if not url:
             continue
-        out = OUTPUT_DIR / f"ecuaman_v9_meshy.{fmt}"
+        out = OUTPUT_DIR / f"ecuaman_v10_meshy.{fmt}"
         print(f"[download] {fmt} -> {out.name}")
         r = requests.get(url, timeout=180)
         r.raise_for_status()
