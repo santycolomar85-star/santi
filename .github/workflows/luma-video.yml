@@ -1,0 +1,73 @@
+name: Luma Image to Video
+
+on:
+  workflow_dispatch:
+    inputs:
+      model:
+        description: 'Luma model'
+        required: false
+        default: 'ray-2'
+        type: choice
+        options:
+          - ray-2
+          - ray-flash-2
+      duration:
+        description: 'Video duration'
+        required: false
+        default: '5s'
+        type: choice
+        options:
+          - 5s
+          - 9s
+      aspect:
+        description: 'Aspect ratio'
+        required: false
+        default: '9:16'
+        type: choice
+        options:
+          - '9:16'
+          - '1:1'
+          - '16:9'
+  push:
+    paths:
+      - 'scripts/luma_image_to_video.py'
+      - '.github/workflows/luma-video.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  luma-video:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install --quiet requests
+
+      - name: Generate video with Luma Dream Machine
+        env:
+          LUMA_API_KEY: ${{ secrets.LUMA_API_KEY }}
+          LUMA_MODEL: ${{ github.event.inputs.model || 'ray-2' }}
+          LUMA_DURATION: ${{ github.event.inputs.duration || '5s' }}
+          LUMA_ASPECT: ${{ github.event.inputs.aspect || '9:16' }}
+          GITHUB_REF_NAME: ${{ github.ref_name }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python scripts/luma_image_to_video.py
+
+      - name: Commit results
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/videos/ || true
+          if git diff --cached --quiet; then
+            echo "No new video files"
+          else
+            git commit -m "Luma video: ecuaman_v1_luma generado [skip ci]"
+            git push
+          fi
