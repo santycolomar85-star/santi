@@ -1,0 +1,11 @@
+[
+  {
+    "id": "00_DAY0_MASTER_HEROIC_THREEQUARTER_v9",
+    "description": "Master v9 - una sola correccion: tassels tricolor amarillo-azul-rojo identicos en AMBAS antenas",
+    "model": "gpt-image-1",
+    "size": "1024x1536",
+    "quality": "high",
+    "reference_image": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/00_DAY0_MASTER_HEROIC_THREEQUARTER_v8_FINAL.png",
+    "prompt": "Recreate this exact ECUAMAN character KEEPING ABSOLUTELY EVERYTHING THE SAME as the reference image - same identity, same orange Penaeus vannamei body, same three-quarter heroic pose, same muscular cephalothorax, same six abdominal segments, same royal blue cape, same electric blue belt with white ECUAMAN text, same gold-bordered medallion with the Ecuanutrition logo (a stylized blue letter E with leaf-like swirls), same cyan trident in his right hand, same friendly proud smile, same deep Pacific Ocean dark background, same tail fan at the bottom, same spiky head crest, same rostrum with serrated teeth. ONE AND ONLY ONE CHANGE - REPLACE THE TASSELS at the tips of the two long antennae with PERFECTLY IDENTICAL ECUADORIAN FLAG TASSELS. Each tassel must be made of EXACTLY THREE FLAT RIBBONS stacked vertically, in this STRICT order from TOP to BOTTOM: (1) TOP ribbon = YELLOW solid hex FFDD00, length about 100 pixels, flat like a small flag. (2) MIDDLE ribbon = BLUE solid hex 003893, same length, flat like a small flag. (3) BOTTOM ribbon = RED solid hex CE1126, same length, flat like a small flag. The three ribbons are tied together at the base by a small visible BROWN LEATHER KNOT hex 5C3A1E. The order MUST be yellow on top, blue in the middle, red at the bottom (matching the Ecuadorian flag from top to bottom). Both tassels must be VISUALLY IDENTICAL - same colors, same order, same size, same orientation. The three colors must be SEPARATE solid colored ribbons, not mixed, not gradient, not orange. Both antennae must have these tricolor tassels clearly visible. NO orange ribbons, NO gradient, NO single yellow ribbon. STRICT three-color flag tassel on each of the two antennae. Style: clean Pixar DreamWorks 3D semi-realistic, sharp focus, vibrant saturated colors."
+  }
+]
