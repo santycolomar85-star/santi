@@ -14,10 +14,14 @@ import trimesh
 from PIL import Image, ImageDraw, ImageFont
 
 ROOT = Path(__file__).resolve().parent.parent
+import os
+MODEL_DIR_NAME = os.environ.get("MODEL_DIR", "v10_meshy")
+MODEL_FILE = os.environ.get("MODEL_FILE", f"ecuaman_{MODEL_DIR_NAME.split('_')[0]}_meshy.glb")
 MODEL = (
     ROOT
-    / "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/3d_models/v9_meshy"
-    / "ecuaman_v9_meshy.glb"
+    / "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/3d_models"
+    / MODEL_DIR_NAME
+    / MODEL_FILE
 )
 OUT_DIR = MODEL.parent / "renders"
 OUT_DIR.mkdir(exist_ok=True)
@@ -145,8 +149,9 @@ def main() -> None:
         images[v] = render_view(mesh, v)
 
     # Save individual
+    name_prefix = MODEL_DIR_NAME.split("_")[0]
     for v, img in images.items():
-        img.save(OUT_DIR / f"v9_meshy_{v}.png")
+        img.save(OUT_DIR / f"{name_prefix}_meshy_{v}.png")
 
     # Composite 2x3 grid
     cell = 800
@@ -155,7 +160,7 @@ def main() -> None:
               ("left", 0, 1), ("top", 1, 1), ("bottom", 2, 1)]
     for name, cx, cy in layout:
         grid.paste(images[name], (cx * cell, cy * cell))
-    grid.save(OUT_DIR / "v9_meshy_GRID_6views.png")
+    grid.save(OUT_DIR / f"{name_prefix}_meshy_GRID_6views.png")
     print(f"\nSaved 6 views + grid in {OUT_DIR.relative_to(ROOT)}")
 
 
