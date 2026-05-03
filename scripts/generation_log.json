@@ -352,5 +352,68 @@
     "status": "error",
     "error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached.', 'type': 'billing_limit_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}",
     "timestamp": 1777682167.5599155
+  },
+  {
+    "id": "04_TEASER_emerging",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/04_TEASER_emerging.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777805028.5338497
+  },
+  {
+    "id": "32_DAY20_three_crystals",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/32_DAY20_three_crystals.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777805083.4419239
+  },
+  {
+    "id": "40_DAY22_ep2_poster",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/40_DAY22_ep2_poster.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777805146.5139909
+  },
+  {
+    "id": "45_DAY30_community_trident",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/45_DAY30_community_trident.png",
+    "size": "1536x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777805203.882841
+  },
+  {
+    "id": "00_DAY0_MASTER_HEROIC_VERTICAL_v3",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/00_DAY0_MASTER_HEROIC_VERTICAL_v3.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777805260.1372435
+  },
+  {
+    "id": "00_DAY0_MASTER_HEROIC_THREEQUARTER_v3",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/00_DAY0_MASTER_HEROIC_THREEQUARTER_v3.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777805334.0328584
+  },
+  {
+    "id": "00_DAY0_MASTER_DYNAMIC_SWIM_v3",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/00_DAY0_MASTER_DYNAMIC_SWIM_v3.png",
+    "size": "1024x1536",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777805396.7796624
   }
 ]
