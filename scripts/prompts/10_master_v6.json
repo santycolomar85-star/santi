@@ -1,0 +1,11 @@
+[
+  {
+    "id": "00_DAY0_MASTER_HEROIC_THREEQUARTER_v6",
+    "description": "Master v6 - basado en v5 con un solo cambio quirurgico: eliminar completamente los pleopodos plumosos del abdomen para look mascot limpio",
+    "model": "gpt-image-1",
+    "size": "1024x1536",
+    "quality": "high",
+    "reference_image": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/00_DAY0_MASTER_HEROIC_THREEQUARTER_v5.png",
+    "prompt": "Recreate this exact ECUAMAN character keeping EVERYTHING the same as the reference: same identity, same pose, same orange Penaeus vannamei body, same heroic muscular cephalothorax, same royal blue cape, same cyan trident, same friendly smile, same Ecuadorian tricolor tassel on the antenna, same ECUAMAN belt with the gold-bordered medallion containing the Ecuanutrition logo, same deep Pacific Ocean background. ONLY ONE CHANGE - REMOVE COMPLETELY the feathery plumose swimming legs (pleopods) hanging below the abdomen segments. The abdomen below the belt must look like CLEAN SOLID ARMORED CHITIN SHELL with only the six visible curved segments in orange hex F39A2B, with darker segmentation lines hex 5C3A1E between each segment, and ending in the solid fan tail (telson and uropods) at the bottom. NO feathers, NO plumes, NO soft fringes, NO brushy appendages, NO swimming legs visible anywhere under the body. The abdomen looks like a clean curved armored shrimp tail like a polished mascot statue. Keep the small solid articulated pereiopod legs along the SIDES of the body (not under it) - those stay. Style: Pixar DreamWorks 3D semi-realistic, sharp focus, vibrant colors, clean professional mascot finish."
+  }
+]
