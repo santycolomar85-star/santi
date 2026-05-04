@@ -8,57 +8,47 @@
 
   <!--
     Icono CIF en estilo del isotipo oficial Ecuanutrition.
-    Curvas mantienen la silueta de camaron/E del logo, sustituyendo
-    la letra E central por las siglas CIF en serif navy.
+    v2: limpio, sin sombra cian fantasma, C abierta arriba-derecha
+    como en el isotipo real, cola integrada al trazo principal.
 
     Paleta (MANUAL_DE_MARCA_ECUAMAN seccion 2):
-      navy principal:     #1E4670  (Azul Profundo del isotipo)
-      cyan claro (ojo):   #7AAFD3
+      navy principal: #1E4670
+      cyan ojo:       #7AAFD3
   -->
 
-  <!-- Curva exterior: cuerpo principal del camaron, abraza el texto -->
-  <path d="M 200 178
-           Q 222 148, 215 105
-           Q 205 50, 145 32
-           Q 75 18, 38 78
-           Q 8 145, 60 198
-           Q 115 235, 175 213
-           Q 192 206, 200 192"
+  <!-- Cuerpo principal C + cola flourish: un solo trazo continuo
+       que arranca en el upper-right (donde nace el ojo), sweeps
+       3/4 alrededor del texto, y termina con un pequeno rizo de
+       cola en la esquina inferior-derecha (siguiendo el original) -->
+  <path d="M 175 48
+           Q 140 30, 100 33
+           Q 45 38, 33 96
+           Q 22 165, 78 198
+           Q 130 218, 175 198
+           Q 198 188, 205 172
+           Q 222 192, 213 222"
         fill="none"
         stroke="#1E4670"
         stroke-width="14"
         stroke-linecap="round"
         stroke-linejoin="round"/>
 
-  <!-- Cola/flourish inferior derecha (la curva de despedida del isotipo) -->
-  <path d="M 200 192
-           Q 215 200, 218 220
-           Q 215 207, 205 205
-           Q 200 205, 195 210"
+  <!-- Hoja/onda superior: navy solido, sin sombra interna -->
+  <path d="M 55 70
+           Q 102 32, 170 48
+           Q 195 55, 200 68
+           Q 175 60, 148 60
+           Q 102 60, 65 85 Z"
         fill="#1E4670"/>
 
-  <!-- Hoja/onda superior: el "antena" del camaron en navy -->
-  <path d="M 50 78
-           Q 95 38, 165 48
-           Q 200 54, 205 70
-           Q 195 60, 165 62
-           Q 110 60, 60 90 Z"
-        fill="#1E4670"/>
+  <!-- Ojo cian arriba-derecha, en el punto donde la hoja
+       se cruza con el inicio del cuerpo C -->
+  <circle cx="193" cy="58" r="9" fill="#7AAFD3"/>
 
-  <!-- Sombra interna sutil de la hoja para sensacion 3D minima -->
-  <path d="M 78 70
-           Q 120 50, 175 58
-           Q 145 56, 100 72 Z"
-        fill="#7AAFD3"
-        opacity="0.55"/>
-
-  <!-- Ojo: punto cian arriba-derecha -->
-  <circle cx="190" cy="60" r="9" fill="#7AAFD3"/>
-
-  <!-- Texto CIF - serif bold, centrado -->
-  <text x="118" y="158"
+  <!-- Texto CIF: serif bold, centrado -->
+  <text x="120" y="156"
         font-family="Georgia, 'Times New Roman', 'Source Serif Pro', serif"
-        font-size="64"
+        font-size="62"
         font-weight="700"
         fill="#1E4670"
         text-anchor="middle"
