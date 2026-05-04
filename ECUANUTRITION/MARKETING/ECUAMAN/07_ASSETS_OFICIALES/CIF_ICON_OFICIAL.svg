@@ -7,50 +7,46 @@
   <title>Ecuanutrition · CIF</title>
 
   <!--
-    Icono CIF en estilo del isotipo oficial Ecuanutrition.
-    v2: limpio, sin sombra cian fantasma, C abierta arriba-derecha
-    como en el isotipo real, cola integrada al trazo principal.
+    Icono CIF v3 - linea fina y delicada para usar como bullet
+    en firma de correo a 16-32 px. Mismo estilo que la propuesta
+    ChatGPT pero con paleta del manual oficial Ecuanutrition.
 
     Paleta (MANUAL_DE_MARCA_ECUAMAN seccion 2):
-      navy principal: #1E4670
-      cyan ojo:       #7AAFD3
+      navy:      #1E4670
+      cyan ojo:  #7AAFD3
   -->
 
-  <!-- Cuerpo principal C + cola flourish: un solo trazo continuo
-       que arranca en el upper-right (donde nace el ojo), sweeps
-       3/4 alrededor del texto, y termina con un pequeno rizo de
-       cola en la esquina inferior-derecha (siguiendo el original) -->
-  <path d="M 175 48
-           Q 140 30, 100 33
-           Q 45 38, 33 96
-           Q 22 165, 78 198
-           Q 130 218, 175 198
-           Q 198 188, 205 172
-           Q 222 192, 213 222"
+  <!-- Cuerpo C + cola: trazo continuo fino (stroke 5) -->
+  <path d="M 178 52
+           Q 145 35, 105 38
+           Q 50 45, 38 100
+           Q 28 165, 80 195
+           Q 130 215, 170 198
+           Q 195 188, 200 172
+           Q 215 188, 210 215"
         fill="none"
         stroke="#1E4670"
-        stroke-width="14"
+        stroke-width="5"
         stroke-linecap="round"
         stroke-linejoin="round"/>
 
-  <!-- Hoja/onda superior: navy solido, sin sombra interna -->
-  <path d="M 55 70
-           Q 102 32, 170 48
-           Q 195 55, 200 68
-           Q 175 60, 148 60
-           Q 102 60, 65 85 Z"
+  <!-- Hoja superior: navy solido, mas delicada -->
+  <path d="M 65 70
+           Q 110 40, 168 52
+           Q 188 58, 192 70
+           Q 168 62, 142 62
+           Q 102 62, 72 80 Z"
         fill="#1E4670"/>
 
-  <!-- Ojo cian arriba-derecha, en el punto donde la hoja
-       se cruza con el inicio del cuerpo C -->
-  <circle cx="193" cy="58" r="9" fill="#7AAFD3"/>
+  <!-- Ojo cian arriba-derecha -->
+  <circle cx="190" cy="58" r="6" fill="#7AAFD3"/>
 
-  <!-- Texto CIF: serif bold, centrado -->
-  <text x="120" y="156"
+  <!-- CIF: serif bold, centrado, proporcionado al trazo fino -->
+  <text x="120" y="153"
         font-family="Georgia, 'Times New Roman', 'Source Serif Pro', serif"
-        font-size="62"
+        font-size="54"
         font-weight="700"
         fill="#1E4670"
         text-anchor="middle"
-        letter-spacing="1">CIF</text>
+        letter-spacing="0.5">CIF</text>
 </svg>
