@@ -169,3 +169,37 @@ necesitarlas o quieres usarlas en contextos distintos): v1 (errata
 "FACTURACIOION"), v2 PEN, v3 WAX_SEAL, v4 LEDGER_BOOK, v5 BALANCE_SCALE,
 v6 DUO, v7 LAUREL_CREST, v8 EMBOSSED_COIN, v9 CORPORATE_INVOICE, v11
 RECEIPT_SCROLL_3D.
+
+---
+
+## ✅ ICONO CIF — para firma de correo
+
+El fundador necesitaba un icono CIF (Código de Identificación Fiscal
+español, equivalente al RUC ecuatoriano) que coincidiera visualmente con
+el isotipo oficial Ecuanutrition para usarlo como bullet en la línea CIF
+de la firma de `invoice@ecuanutrition.com` (Ecuanutrition SL, Barcelona).
+
+Se entrega en **dos formatos** para escala libre sin distorsión:
+
+| Archivo | Uso |
+|---|---|
+| `07_ASSETS_OFICIALES/CIF_ICON_OFICIAL.png` | PNG transparente HD 1024×1024 — generado por workflow Actions vía `images.edit` con el isotipo oficial como ancla. Para Outlook desktop y cualquier cliente con soporte SVG limitado. |
+| `07_ASSETS_OFICIALES/CIF_ICON_OFICIAL.svg` | Vector SVG hand-crafted con paleta exacta del manual (`#1E4670` navy + `#7AAFD3` cyan). Para web, HTML signatures modernas, Word/Pages, formatos de impresión grande. |
+
+Ambos sin fondo, listos para soltar en cualquier contexto.
+
+---
+
+## 📝 PENDIENTE PRÓXIMA SESIÓN — Footer correo facturación
+
+Datos confirmados al ver la captura del correo del fundador:
+- **Razón social**: ECUANUTRITION SL (Sociedad Limitada española)
+- **Sede fiscal**: RD del General Mitre, 126, 6È — 08021 Barcelona
+- **Teléfono**: +34 646 719 638
+- **Correo real**: `invoice@ecuanutrition.com` *(corregir typo `invoce@` que arrastraba el repo)*
+- **Tagline**: "Productos acuícolas de calidad premium desde Ecuador"
+- **CIF**: pendiente de que el fundador lo facilite (se completará el footer cuando lo pase)
+
+Cuando se reactive la sesión, completar el footer bilingüe ES/EN con
+estos datos + CIF + datos bancarios para pagos B2B + cláusula
+confidencialidad LOPD/GDPR.
