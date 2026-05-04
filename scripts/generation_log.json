@@ -556,5 +556,14 @@
     "quality": "high",
     "revised_prompt": "",
     "timestamp": 1777890452.4956398
+  },
+  {
+    "id": "CIF_ICON_OFICIAL_v3_BALANCED",
+    "status": "ok",
+    "file": "ECUANUTRITION/MARKETING/ECUAMAN/07_ASSETS_OFICIALES/auto_generated/CIF_ICON_OFICIAL_v3_BALANCED.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "revised_prompt": "",
+    "timestamp": 1777891149.4941711
   }
 ]
