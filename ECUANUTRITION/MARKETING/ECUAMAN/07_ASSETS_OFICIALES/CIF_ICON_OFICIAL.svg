@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 240 240"
+     width="240" height="240"
+     role="img"
+     aria-label="CIF Ecuanutrition - icono fiscal">
+  <title>Ecuanutrition · CIF</title>
+
+  <!--
+    Icono CIF en estilo del isotipo oficial Ecuanutrition.
+    Curvas mantienen la silueta de camaron/E del logo, sustituyendo
+    la letra E central por las siglas CIF en serif navy.
+
+    Paleta (MANUAL_DE_MARCA_ECUAMAN seccion 2):
+      navy principal:     #1E4670  (Azul Profundo del isotipo)
+      cyan claro (ojo):   #7AAFD3
+  -->
+
+  <!-- Curva exterior: cuerpo principal del camaron, abraza el texto -->
+  <path d="M 200 178
+           Q 222 148, 215 105
+           Q 205 50, 145 32
+           Q 75 18, 38 78
+           Q 8 145, 60 198
+           Q 115 235, 175 213
+           Q 192 206, 200 192"
+        fill="none"
+        stroke="#1E4670"
+        stroke-width="14"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+  <!-- Cola/flourish inferior derecha (la curva de despedida del isotipo) -->
+  <path d="M 200 192
+           Q 215 200, 218 220
+           Q 215 207, 205 205
+           Q 200 205, 195 210"
+        fill="#1E4670"/>
+
+  <!-- Hoja/onda superior: el "antena" del camaron en navy -->
+  <path d="M 50 78
+           Q 95 38, 165 48
+           Q 200 54, 205 70
+           Q 195 60, 165 62
+           Q 110 60, 60 90 Z"
+        fill="#1E4670"/>
+
+  <!-- Sombra interna sutil de la hoja para sensacion 3D minima -->
+  <path d="M 78 70
+           Q 120 50, 175 58
+           Q 145 56, 100 72 Z"
+        fill="#7AAFD3"
+        opacity="0.55"/>
+
+  <!-- Ojo: punto cian arriba-derecha -->
+  <circle cx="190" cy="60" r="9" fill="#7AAFD3"/>
+
+  <!-- Texto CIF - serif bold, centrado -->
+  <text x="118" y="158"
+        font-family="Georgia, 'Times New Roman', 'Source Serif Pro', serif"
+        font-size="64"
+        font-weight="700"
+        fill="#1E4670"
+        text-anchor="middle"
+        letter-spacing="1">CIF</text>
+</svg>

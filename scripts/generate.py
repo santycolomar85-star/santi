@@ -53,13 +53,18 @@ for item in items:
             kwargs["quality"] = item.get("quality", "hd")
         else:
             kwargs["quality"] = item.get("quality", "high")
+        if "background" in item:
+            kwargs["background"] = item["background"]
         ref_image = item.get("reference_image")
         if ref_image:
             ref_path = ROOT / ref_image
+            edit_kwargs = {"model": model, "prompt": item["prompt"],
+                           "size": item.get("size", "1024x1024"),
+                           "quality": item.get("quality", "high"), "n": 1}
+            if "background" in item:
+                edit_kwargs["background"] = item["background"]
             with open(ref_path, "rb") as imgf:
-                resp = client.images.edit(model=model, image=imgf, prompt=item["prompt"],
-                                          size=item.get("size", "1024x1024"),
-                                          quality=item.get("quality", "high"), n=1)
+                resp = client.images.edit(image=imgf, **edit_kwargs)
         else:
             resp = client.images.generate(**kwargs)
         d = resp.data[0]
